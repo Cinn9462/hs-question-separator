@@ -1,0 +1,2874 @@
+[
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists at Fermi National Lab are studying the decay modes of the lightest group of mesons. What is the name of this group of 3 particles?",
+    "answer": "PIONS"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Energy",
+    "question": "Researchers at Los Alamos National Lab are studying the effects of Super El Nino events in the past, including the one that occurred from 2015 to 2016. Identify all of the following three changes that are consequences of an El Nino event: 1) Increases in soil moisture in India; 2) High air pressure in the Western Pacific; 3) High sea surface temperatures off the coast of Peru.",
+    "answer": "2 AND 3"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Math",
+    "question": "In the prime factorization of a perfect square, the exponents of the prime factors must be which of the following types of numbers? W) Even X) Odd Y) Prime Z) Perfect squares",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Math",
+    "question": "A right circular cylinder has height 15 and diameter 18. What is its surface area?",
+    "answer": "432\u03c0"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Physics",
+    "question": "Which of the following best describes the volume of a 10-gram sample of water as a function of temperature? W) Linearly increasing from 0 to 100 degrees Celsius X) Linearly decreasing from 0 to 100 degrees Celsius Y) Non-linear with a local maximum at 4 degrees Celsius Z) Non-linear with a local minimum at 4 degrees Celsius",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Physics",
+    "question": "Lightning strikes a lightning rod on a building that is 3 kilometers away from you. To the nearest whole second, how long will it take the sound of the thunder to reach you?",
+    "answer": "9"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Biology",
+    "question": "What vitamin is essential in humans for the synthesis of several blood clotting factors?",
+    "answer": "K"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Biology",
+    "question": "Coronaviruses are positive-sense single-stranded RNA viruses. Which of the following describes how their genetic material is processed after entering a cell? W) Transcribed to mRNA with RNA-dependent RNA polymerase [pah-LIM-er-ace] X) Directly translated by host ribosomes Y) Reverse transcribed to DNA with reverse transcriptase Z) Translated after assembly of viral ribosomes",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What is the value of the reaction quotient when the change in Gibbs free energy is zero?",
+    "answer": "K"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Match the flame test colors blue, green, and purple to the following three metals or compounds: 1) Boric acid; 2) Potassium; 3) Cesium.",
+    "answer": "1) GREEN; 2) PURPLE; 3) BLUE"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Jet streams are located at what boundary in Earth's atmosphere?",
+    "answer": "TROPOPAUSE"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Speleothem [SPEEL-ee-o-them] cave deposits are most typically composed of what type of rock?",
+    "answer": "LIMESTONE"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists supported by the Department of Energy are developing new ways to synthesize carbon fiber. In carbon fiber, what is the hybridization state of the carbon atoms?",
+    "answer": "SP2"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists supported by the Department of Energy are producing catalysts for methanol production. They are synthesizing methanol via the oxidation of what organic starting material?",
+    "answer": "METHANE"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Math",
+    "question": "If f is a continuous function such that the definite integral from 4 to 8 of f of x dx equals 24, what is the average value of f on the closed interval from 4 to 8?",
+    "answer": "6"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Math",
+    "question": "If the product of cosine x and sine x is \u20131/6, what is the value of open parenthesis cosine x minus sine x close parenthesis squared?",
+    "answer": "4/3"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Physics",
+    "question": "J.J. Thomson won the Nobel Prize in Physics for calculating the charge-to-mass ratio of what particles in cathode rays?",
+    "answer": "ELECTRONS"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "",
+    "subject": "Physics",
+    "question": "The x-component and the y-component of an object\u2019s velocity are both 5 meters per second. In meters per second, what is the speed of this object?",
+    "answer": "5\u221a2"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Ducks have webbed feet while chickens do not. This morphogenetic difference is mediated by BMP4 and Gremlin, which are proteins involved in what cellular process?",
+    "answer": "APOPTOSIS"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Identify all of the following three compounds that are derivatives of cholesterol: 1) Testosterone; 2) Cortisol; 3) Retinol.",
+    "answer": "1, 2"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Kate is performing an experiment where she has a chamber containing an inert gas. The chamber is at a fixed temperature and she varies the pressure of the chamber. She generates a curve by plotting pressure on the x-axis and PV over RT on the y-axis. At which of the following fixed chamber temperatures, in kelvins, would this curve be the MOST linear? W) 250 X) 500 Y) 1000 Z) 1500",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Identify all of the following four acids that are considered weak acids: 1) HF; 2) CH COOH; 3) HCN; 3 4) H PO . 3 4",
+    "answer": "ALL"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "What is the name for the gap between Saturn\u2019s A and B rings?",
+    "answer": "CASSINI DIVISION"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "In kelvins, which of the following is closest to the radiative equilibrium temperature of Earth? W) 100 X) 250 Y) 300 Z) 350",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Argonne National Lab researchers are studying photocatalysts made of Cu O to reduce carbon dioxide into 2 methanol. What is the IUPAC [EYE-you-pack] name for Cu O? 2",
+    "answer": "COPPER"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at SLAC National Accelerator Facility are studying photo-iso-mer-i-zation in opsins. Identify all of the following three statements that are true of opsins: 1) They are G-protein-coupled receptors; 2) They are found in the retina; 3) They are covalently bound to retinal [REHT-nul] when active.",
+    "answer": "ALL"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is the discriminant of the quadratic polynomial 8x2 + 7x \u2013 2?",
+    "answer": "113"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Math",
+    "question": "Lloyd is asked by his teacher to subtract 4 from a number and multiply the result by 2. Instead, he subtracts 2 and then multiplies the result by 4, giving him 124. What is the correct answer to the teacher\u2019s question?",
+    "answer": "58"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Physics",
+    "question": "Which of the following are the units of entropy? W) Joules X) Newtons per kelvin Y) Watts Z) Joules per kelvin",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Physics",
+    "question": "A car starting at rest undergoes a constant acceleration of 16 meters per second squared. In meters per second, what is the speed of the car after it has traveled half a meter?",
+    "answer": "4"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Biology",
+    "question": "What chromosome are Barr bodies derived from?",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Biology",
+    "question": "In eukaryotic cells, the electron transport chain directly performs which of the following actions? W) Generating ATP X) Generating GTP Y) Pumping protons into the mitochondrial matrix Z) Pumping protons into the intermembrane space",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "What principle states that two electrons cannot have the same quantum numbers?",
+    "answer": "PAULI EXCLUSION PRINCIPLE"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Which of the following statements is true regarding the energetics of electrochemical cells? W) For a voltaic cell, E-cell is positive and delta G is positive X) For a voltaic cell, E-cell is positive and delta G is negative Y) For an electrolytic cell, E-cell is negative and delta G is negative Z) For an electrolytic cell, E-cell is positive and delta G is negative",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "In what phase is the Moon when moonrise occurs at noon?",
+    "answer": "FIRST QUARTER"
+  },
+  {
+    "set": "16",
+    "round": "1",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following types of stars has a luminosity [loo-min-AW-sih-tee] most similar to that of red dwarfs? W) Red giants X) Yellow dwarfs Y) White dwarfs Z) Brown dwarfs",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Biology",
+    "question": "What is the term for the specialized reproductive organ that characterizes angiosperms?",
+    "answer": "FLOWERS"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Biology",
+    "question": "Identify all of the following three molecules of which ribosomes are composed: 1) RNA; 2) DNA; 3) Proteins.",
+    "answer": "1, 3"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What relationship predicts that the partial pressure of gas-phase molecules above a liquid varies exponentially with the reciprocal of temperature?",
+    "answer": "CLAUSIUS-CLAPEYRON"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What is the oxidation state of the sulfur atom in the sulfate ion?",
+    "answer": "+6"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "What is the name of the geologic principle that states that, in an un-deformed sequence of sedimentary rocks, the youngest beds are always at the top and the oldest at the bottom?",
+    "answer": "PRINCIPLE OF SUPERPOSITION"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "An Ekman spiral in the surface ocean is created by the combined effect of what two influences? W) Wind and water upwelling X) Wind and water downwelling Y) Coriolis force and water downwelling Z) Coriolis force and wind",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists at Brookhaven National Lab are studying artificial photosynthesis. To do so, they have coupled chromophores to catalysts by adding long alkyl [AL-kul] tails to each one. These alkyl tails then tether the two molecules together. Which of the following forces is most influential in providing the tethering force? W) London dispersion X) Dipole-dipole Y) Hydrogen bonds Z) Ionic",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists at Pacific Northwest National Lab are developing sodium-ion batteries. Identify all of the following three statements that are potential advantages of these batteries: 1) They are less flammable than lithium-ion batteries; 2) They are more efficient than lead-acid batteries; 3) They are rechargeable.",
+    "answer": "ALL"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Math",
+    "question": "Which of the following best describes the relationship between the lines with equations 5x + 4y = 20 and 12x \u2013 15y = 60? W) Parallel X) Perpendicular Y) Intersecting but not perpendicular Z) Coincident",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Math",
+    "question": "One of the zeroes of the polynomial x3 + 2x2 + 36x + 72 is the complex number \u20136i. What is the value of the real zero of the polynomial?",
+    "answer": "\u20132"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Physics",
+    "question": "Metal detectors function by using an alternating magnetic field to generate small loops of electric current in metal objects. What is the term for these loops?",
+    "answer": "EDDY CURRENTS"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Physics",
+    "question": "A beam of light exits a uniform material into vacuum with an incident angle of 30 degrees. If the angle of refraction is 45 degrees, then what is the index of refraction of the material?",
+    "answer": "\u221a2"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Biology",
+    "question": "What is the term for metabolic reactions that require the input of energy to build up complex molecules?",
+    "answer": "ANABOLIC"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Biology",
+    "question": "Which of the following best demonstrates paracrine [para-krin] signaling? W) A tumor cell creates its own growth factors X) An allergen results in localized histamine release Y) The pituitary gland secretes vasopressin [VAY-zoh-pressin] in response to thirst Z) The pancreas produces insulin after a meal",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Which of the following is a valid combination of units to express entropy? W) Joule-kelvins X) Newton-meters per degree Celsius Y) Watts per second-kelvin Z) Coulomb-volts per joule-kelvin",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Which of the following changes would shift the equilibrium to the left for the exothermic reaction of solid calcium oxide with carbon dioxide gas to yield solid calcium carbonate? W) Decreasing the volume of the container X) Increasing the temperature Y) Increasing the pressure in the container by adding an inert gas Z) Doubling both the forward and reverse rate constants",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Which of the following groups of stars exhibits the empirical relationship that luminosity is proportional to mass to the 3.5 power? W) Giants X) Supergiants Y) White dwarfs Z) Main sequence",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "What is the term for small variations in a celestial object\u2019s rate of precession due to the gravitational influence of nearby bodies?",
+    "answer": "NUTATION"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Pacific Northwest National Lab researchers are studying the factors that lead to type one diabetes. One of the main causes is the death of what specific cell type within the pancreatic islets [EYE-lets]?",
+    "answer": "BETA CELLS"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Ames Lab researchers are trying to understand the ground state of crystals using a jellium model. Jellium is a quantum model in which positive charges are assumed to be a uniform jelly. This is most similar to the assumptions made by which of the following atomic models? W) Bohr model X) Rutherford model Y) Atomic orbital model Z) Plum pudding model",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Math",
+    "question": "Solve the following equation for x: log base 2 of open parenthesis x \u2013 6 close parenthesis = 4?",
+    "answer": "22"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is the sum of the distinct prime factors of 1,449?",
+    "answer": "33"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Physics",
+    "question": "Only two forces are acting on a large rigid body: one is 5 newtons upwards, and one is 5 newtons downwards. However, the object is not at equilibrium. Which of the following could be the reason why? W) External forces are acting on the object X) The net force is non-zero Y) The net torque [tork] is non-zero Z) The object had a non-zero initial speed",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Physics",
+    "question": "In kilocalories, how much energy is needed to heat a cubic meter of water from 15 degrees Celsius to 20 degrees Celsius?",
+    "answer": "5000"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Operant and classical conditioning are both examples of what general type of learning through which animals relate one stimulus with another?",
+    "answer": "ASSOCIATIVE"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Identify all of the following three statements that are true of quantitative traits: 1) They are usually polygenic; 2) Without selection, they will be bimodally distributed in a population; 3) Eye color in fruit flies is a quantitative trait.",
+    "answer": "1"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Consider the reduction of ferric oxide with solid carbon to yield carbon monoxide and solid iron. How many atoms of carbon must be consumed to reduce one molecule of ferric oxide?",
+    "answer": "3"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "What is the resulting normality when 10 milliliters of a 3-molar sulfuric acid solution are added to 20 milliliters of a one-molar sodium hydroxide solution?",
+    "answer": "4/3"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "According to Bowen\u2019s Reaction Series, in fractional crystallization of a magma, what mineral will precipitate out of the magma first?",
+    "answer": "OLIVINE"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "The Gulf Stream and the Canary Current bound what major ocean gyre [JI-er]?",
+    "answer": "NORTH ATLANTIC"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Researchers at Brookhaven National Lab are using a de-alloying technique to create nanostructured materials. The film that is their starting material is an alloy that is composed of the two most common elements in Earth\u2019s core. What are these two elements?",
+    "answer": "IRON AND NICKEL"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Researchers at Fermi National Accelerator Lab are searching for supersymmetric pairs to known elementary particles. Which of the following best explains why these pairs need not have the same mass as their Standard Model counterparts? W) Supersymmetry is unrelated to gravity X) The mass of supersymmetric particles grows with the renormalization scale Y) Supersymmetry can be spontaneously broken Z) Supersymmetric pair particles are all required to be massless",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Math",
+    "question": "A pyramid with 36 edges has how many vertices?",
+    "answer": "19"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Math",
+    "question": "Consider an infinite geometric series with sum equal to 13/7 and first term 5/4. What is the value of the common ratio r for this series?",
+    "answer": "17/52"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Physics",
+    "question": "Sophie is plotting the kinetic energy of a 5-kilogram mass on the y-axis and its speed on the x-axis. If she uses a log-log plot, which of the following curves would best fit her data? W) A parabola [puh-RAB-uh-la] X) A line with slope 1 Y) A line with slope 2 Z) A horizontal line",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "2",
+    "number": "1",
+    "subject": "Physics",
+    "question": "A wire on the x-axis is carrying current in the positive x direction. At the point (0, 1, 0), in what direction does the magnetic field generated by the wire point? W) Positive z X) Negative z Y) Positive y Z) Negative y",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Physics",
+    "question": "Which of the following is a direct corollary of the second law of thermodynamics? W) Energy cannot be created or destroyed X) Real thermodynamic processes are not reversible Y) Absolute zero cannot be reached Z) Absolute zero is the minimum possible temperature",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Physics",
+    "question": "Astronaut A is in a circular orbit with an altitude of one Earth radius above the surface of Earth, while Astronaut B is in orbit with an altitude of two Earth radii above the surface of Earth. What is the ratio of the gravitational force from Earth on Astronaut A to that on Astronaut B?",
+    "answer": "9/4"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Biology",
+    "question": "In population genetics, what term is used to quantify the ability of an individual to propagate its genes to future generations?",
+    "answer": "FITNESS"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Biology",
+    "question": "In humans, which of the following blood types would be expected to occur with the highest frequency among the offspring of parents who are both type AB? W) A X) B Y) O Z) AB",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What is the term for the minimum energy required for a chemical reaction to proceed?",
+    "answer": "ACTIVATION ENERGY"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Identify all of the following three compounds that interact mainly via dipole-dipole forces: 1) Hydrogen sulfide; 2) Fluoro-methane; 3) Carbon tetra-bromide.",
+    "answer": "1, 2"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three moraine types that form perpendicular to the direction of glacial flow: 1) Lateral moraine [mah-RAYN]; 2) End moraine; 3) Medial moraine.",
+    "answer": "2"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Energy",
+    "question": "Ames Lab researchers are studying quantum phase transitions in materials where the magnetic moments of each molecule point in the opposite direction as each of their neighbors\u2019. Which of the following terms describes this type of magnetism? W) Para-magnetism X) Dia-magnetism Y) Anti-ferro-magnetism Z) Ferro-magnetism",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Energy",
+    "question": "Oak Ridge National Lab researchers are constructing circuit elements by assembling artificial lipid bilayers in hexadecane. How many hydrogen atoms are in one molecule of hexadecane [hexa-DEH-cane]?",
+    "answer": "34"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Math",
+    "question": "If angle ABC is inscribed in a circle and measures 35 degrees, what is the degree measure of arc ABC?",
+    "answer": "290"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Math",
+    "question": "Solve the following equation for x over the negative integers: x3 + 7x2 \u2013 9x \u2013 63 = 0",
+    "answer": "\u20133 AND \u20137"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Physics",
+    "question": "Consider 1 mole of an ideal gas at STP. If the temperature of this gas were reduced to 0 kelvins, then, in liters, what would its volume become?",
+    "answer": "0"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Physics",
+    "question": "Identify all of the following three properties that are the same for a positron and an electron: 1) Their movement in a uniform electric field; 2) Their movement in a uniform gravitational field; 3) Their behavior upon collision with an electron.",
+    "answer": "2"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Biology",
+    "question": "What type of reproductive isolation is demonstrated by the mule, which is a cross between a horse and a donkey?",
+    "answer": "HYBRID STERILITY"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Biology",
+    "question": "Which of the following statements is TRUE regarding water balance in the mammalian body? W) Dehydration increases the osmolality of blood X) Vasopressin is produced by the adrenal gland Y) Renin inhibits the conversion of angiotensinogen [an-jee-oh-ten- SIN-oh-jen] to angiotensin [an-jee-oh-TEN-sin] two Z) Aldosterone [al-DOSS-ter-own] inhibits sodium absorption in the distal tubules",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "The ionization energy of neon is equivalent to the energy required to move an electron from what subshell to the n equals infinity energy level?",
+    "answer": "2P"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "The dispersity of a polymer would be measured using which of the following techniques? W) Gel permeation chromatography X) Nuclear magnetic resonance Y) Transmission electron microscopy Z) X-ray diffraction",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "What is the term for a solar eclipse during which, despite perfect alignment, the angular size of the Moon is not large enough to fully cover the Sun?",
+    "answer": "ANNULAR"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three gas giants that are hypothesized to have a layer of liquid metallic hydrogen: 1) Saturn; 2) Uranus: 3) Neptune.",
+    "answer": "1"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Oak Ridge National Lab scientists are studying how to bioengineer bacteria with complex immune systems. These systems destroy foreign DNA based on a modification that is also used in genomic imprinting and Barr body formation in mammals. What is this type of DNA modification called?",
+    "answer": "METHYLATION"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Researchers at SLAC National Lab are studying how gluons scatter off one another. What is the term for a particle composed entirely of gluons?",
+    "answer": "GLUEBALL"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is 6 factorial divided by 4 factorial?",
+    "answer": "30"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Math",
+    "question": "Express the fraction with numerator 23 + 11i and denominator 1 + 5i in standard a + bi form.",
+    "answer": "3 \u2013 4i"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Physics",
+    "question": "An 8-kilogram and a 20-kilogram mass are on opposite sides of a 7-meter-long lever. In meters, how far should the fulcrum be placed from the 8-kilogram mass so that the two masses are balanced? W) 3.5 X) 4 Y) 4.5 Z) 5",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Physics",
+    "question": "Which of the following expressions does not have units of energy? W) Position times momentum X) Velocity squared times mass Y) Angular momentum divided by time Z) Momentum squared divided by mass",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Limited food, decreased water, and loss of available nesting sites are likely to have which of the following impacts on a population? W) Decreased carrying capacity X) Increased population growth Y) Decreased selection pressure Z) Decreased per capita death rates",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Identify all of the following three numbers of petals a flower could have that would suggest that it is a monocot: 1) 6; 2) 8; 3) 12.",
+    "answer": "1, 3"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Which of the following compounds or ions is the best oxidizing agent? W) Copper(II) ions X) MnO 2 Y) NaBH 4 Z) Iodine solid",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Rank the following three metals in order of increasing strength as a reducing agent: 1) Copper; 2) Zinc; 3) Lead.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following properties of a telescope determines its resolving power? W) Objective focal length X) Eyepiece focal length Y) Lens index of refraction Z) Aperture [AP-ur-chur]",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Mineral spherules [SFEER-ools], sometimes called blueberries, present on the Martian surface are thought to be evidence of earlier surface water. Of what mineral are these spherules composed?",
+    "answer": "HEMATITE"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Researchers at Brookhaven National Lab are studying therapeutic recombinant protein production in plants. A major use of this technology is to create what class of proteins, which are commonly composed of a pair of heavy chains and a pair of light chains?",
+    "answer": "ANTIBODY"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Pacific Northwest National Lab are developing NWChem, a software used in computational chemistry. One assumption typically made in computational chemistry is that the motion of nuclei is negligible compared to the motion of electrons. What is the name of this approximation?",
+    "answer": "BORN-OPPENHEIMER APPROXIMATION"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Math",
+    "question": "A differentiable function f of x has domain the closed interval from 2 to 6 and range the closed interval from 4 to 8. If f prime of x is less than 0 for all x in the domain, what is f of 2? W) 2 X) 4 Y) 6 Z) 8",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "3",
+    "number": "1",
+    "subject": "Math",
+    "question": "To the nearest whole number, what is the slant height of a right circular cone with radius 7 and height 14?",
+    "answer": "16"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Math",
+    "question": "When graphed in the complex plane, which of the following is the best description of the graph of all the complex solutions to the equation x6 \u2013 64 = 0? W) One point X) Two points Y) The vertices of a regular hexagon Z) A circle",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Math",
+    "question": "What is the slope-intercept form of the equation of the slant asymptote of the function f of x equals the fraction with numerator 4x2 \u2013 10x and denominator 2x + 1?",
+    "answer": "y = 2x \u2013 6"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Physics",
+    "question": "Of the different types of heat transfer, which is responsible for transferring the most heat from the Sun to Earth?",
+    "answer": "RADIATION"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Physics",
+    "question": "What principle states that when waves occupy the same space at the same time, their displacements add together?",
+    "answer": "SUPERPOSITION"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Biology",
+    "question": "A nonsense mutation occurs when a codon coding for an amino acid is changed to what type of codon?",
+    "answer": "STOP"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Biology",
+    "question": "Which of the following is the limiting factor for photosynthesis rate in most plants? W) Insolation X) Humidity Y) Manganese concentration Z) Atmospheric carbon dioxide",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "If a reaction is second order with respect to concentration of A, by what factor would the rate of the reaction be multiplied if the concentration of A were quartered?",
+    "answer": "1/16"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Which of the following electron configurations is correct for neutral copper? W) [Ar] 4s2 3d9 [A-R-4-s-2-short pause-3-d-9] X) [Ar] 4s1 3d10 [A-R-4-s-1-short pause-3-d-10] Y) [Ar] 3d11 3d9 [A-R-3-d-11-short pause-3-d-9] Z) [Ar] 3d10 4p1 [A-R-3-d-10-short pause-4-p-1]",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "A binary star system appears as a single point of light, but the presence of a second star can be determined from changes in the doppler shift of its spectral absorption lines. What type of binary is this? W) Astrometric X) Eclipsing Y) Spectroscopic [spek-troh-SCAW-pik] Z) Visual",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three types of galaxies that are expected to have substantial ongoing star formation: 1) Elliptical; 2) Spiral; 3) Irregular.",
+    "answer": "2, 3"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Energy",
+    "question": "Argonne National Lab researchers are studying the charge-separation mechanisms in the light reactions of bacterial photosynthesis. One of the main products of this reaction is what cofactor, which acts as a reducing agent during carbon fixation?",
+    "answer": "NADPH"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Energy",
+    "question": "Researchers at Ames Lab have developed a new refrigeration technology based on magnetocaloric [mag-NEE-toh-cah-LOR-ik] cooling for commercial use. If a refrigerator removes 30 Joules from a low-temperature reservoir and adds 50 Joules to a high-temperature reservoir each cycle, then what is its coefficient of performance?",
+    "answer": "1.5"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Math",
+    "question": "The volume of a right circular cone is 12. What is the new volume if the height remains constant and the radius of the base is doubled?",
+    "answer": "48"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Math",
+    "question": "If the line tangent to the graph of the differentiable function f of x at the point (\u20132, 6.5) passes through the point (9.5, \u20133), then what is f prime of x when x = \u20132?",
+    "answer": "\u201319/23"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Physics",
+    "question": "Rank the following three processes in increasing order of the temperature at which they occur at standard pressure: 1) Ice melts; 2) Dry ice sublimates [SUB-lim-ates]; 3) Helium boils.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Physics",
+    "question": "Identify all of the following three devices that, on their own, can convert AC current to DC current: 1) Diode; 2) Rectifier; 3) Transformer.",
+    "answer": "1, 2"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Biology",
+    "question": "What cytoskeletal component is the major constituent of the mitotic spindle apparatus?",
+    "answer": "MICROTUBULES"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "",
+    "subject": "Biology",
+    "question": "Identify all of the following three statements that are true of parthenogenesis [par-then-oh-JEN-eh-sis]: 1) Parthenogenesis involves budding; 2) Parthenogenesis involves the development of unfertilized eggs into offspring; 3) Parthenogenesis can create a genetic clone of the parent.",
+    "answer": "2, 3"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Rishi graphs the pressure exerted by an ideal gas on its chamber on the y-axis and its temperature in degrees Celsius on the x-axis. To the nearest degree Celsius, what is the x-intercept of this graph?",
+    "answer": "\u2013273"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Which of the following solids is more soluble in one-molar hydrochloric acid than it is in pure water? W) Barium sulfate X) Barium bromide Y) Calcium hydrogen phosphate Z) Calcium chloride",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Before the evolution of photosynthesis, small amounts of oxygen were produced when UV radiation split water into hydrogen and oxygen gas. What is the general term for this reaction?",
+    "answer": "PHOTOLYSIS"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following is an example of a plate boundary that may have both deep- and shallow-focus earthquakes? W) Transform X) Continent-continent convergent Y) Ocean-continent convergent Z) Ocean-ocean divergent",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Ames Lab are studying the interactions between gold nanoparticles and the heteroatom in butane- thiol [THIGH-awl]. What element is this heteroatom?",
+    "answer": "SULFUR"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Researchers at Thomas Jefferson National Accelerator Facility are using Monte Carlo methods to evaluate integrals in very high dimensional spaces. Which of the following best explains the advantage of Monte Carlo techniques in these settings? W) Direct integration techniques are too computationally intensive in high dimensions X) Monte Carlo integration is known to be more accurate than direct integration Y) Monte Carlo techniques are easier to combine with machine learning methods Z) Direct integration techniques are susceptible to numerical overflow in high dimensions",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Math",
+    "question": "8 is one-fourth percent of what number?",
+    "answer": "3200"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Math",
+    "question": "If x is proportional to y and inversely proportional to z2, and if x = 3 when y = 4 and z = 8, what is the value of x when y = 6 and z = 10?",
+    "answer": "72/25"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Physics",
+    "question": "You are pushing your broken car to prevent it from sliding down a hill. Unfortunately, as you apply 300 newtons of force directly up the hill, the car slides 4 meters down the hill. In joules, how much work have you performed on the car during this period?",
+    "answer": "\u22121200"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Physics",
+    "question": "In a carnival ride, participants stand in an upright cylindrical room that starts rotating rapidly, and they end up pressed against the walls with their feet above the ground. Which of the following forces balances the gravity on the riders? W) Normal force X) Frictional force Y) Centripetal force Z) Centrifugal force",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Plasma cells and their precursors, plasmablasts, are differentiated forms of what type of lymphocyte?",
+    "answer": "B"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Identify all of the following three types of interactions that are examples of symbiosis: 1) Commensalism; 2) Mutualism; 3) Parasitism.",
+    "answer": "ALL"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Which of the following thermodynamic properties necessarily implies that a reaction is spontaneous? W) Negative delta G X) Negative delta H Y) Positive delta S Z) Positive W",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "A certain electrochemical cell has a standard cell potential of 1.5 volts for a reaction that transfers 3 electrons. To two significant figures and in kilojoules, what is the standard Gibbs free energy change of this cell?",
+    "answer": "\u2013430"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following weathering processes is due to pressure release? W) Exfoliation X) Growth of salt crystals Y) Thermal expansion and contraction Z) Hydrolysis and oxidation",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three statements that are true of augite: 1) It is an example of a pyroxene [pie-ROX-een]; 2) It has one direction of cleavage; 3) It is found in basalt.",
+    "answer": "1, 3"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at the Joint BioEnergy Institute are developing methods to break down the second-most- abundant polymer found in wood for biofuel production. What is the name of this difficult-to-break-down polymer?",
+    "answer": "LIGNIN"
+  },
+  {
+    "set": "16",
+    "round": "4",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Oak Ridge National Lab are producing neutrons via spallation. Normally, these neutrons are then slowed down by passing them through a certain type of material before they are used for neutron imaging. What is the term for materials that demonstrate this behavior?",
+    "answer": "MODERATOR"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Biology",
+    "question": "SNPs [snips] are used in DNA fingerprinting to distinguish individuals from each other. Which of the following events most likely precipitated the generation of a SNP [snip]? W) Inversion X) Reciprocal translocation Y) Point mutation Z) Frameshift mutation",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Biology",
+    "question": "Identify all of the following three statements about catabolic processes that are true in human cells: 1) Amino acids must be converted into glucose for entry into the Krebs cycle; 2) Fatty acids undergo beta oxidation to form acetyl-CoA [ah-see-til-koh-AY]; 3) Nitrogenous waste from protein metabolism is excreted as ammonia or urea.",
+    "answer": "2, 3"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What is the molecular geometry of sulfur tetrafluoride?",
+    "answer": "SEE-SAW"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What is the chemical formula of the ionic species formed when aluminum oxide reacts with hydroxide ions?",
+    "answer": "Al"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "In the course of its evolution, what is the main element that has accumulated when helium becomes exhausted in the core of a red giant star?",
+    "answer": "CARBON"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "What kind of telescope requires nested mirrors to form a focused image? W) Radio telescope X) Infrared telescope Y) Ultraviolet telescope Z) X-ray telescope",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Energy",
+    "question": "Researchers at SLAC National Lab are studying scattering processes that violate the conservation of helicity [heel-IH-sih-dee] to the maximum possible extent. Which of the following best describes helicity? W) The projection of a particle\u2019s spin onto its momentum X) The angle between a particle\u2019s magnetic moment and its spin Y) The angular momentum of a particle with respect to the collision axis Z) The expectation value of a particle\u2019s magnetic quadrupole moment",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists supported by the Department of Energy are using machine learning to classify genetic data. Which of the following describes the difference between classification and clustering? W) Classification is performed with machine learning, while clustering is performed with mixed models X) Classification is performed with machine learning, while clustering is performed with generalized models Y) Classification is a type of unsupervised learning, while clustering is a type of supervised learning Z) Classification is a type of supervised learning, while clustering is a type of unsupervised learning",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Math",
+    "question": "A geometric sequence has second term \u20137 and third term 4. What is its first term?",
+    "answer": "49/4"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Math",
+    "question": "A set of 15 points has 4 that are collinear, another 5 that are collinear, and the remaining 6 are also collinear. Otherwise, no three points in the set are collinear. How many lines contain at least two of the 15 points?",
+    "answer": "77"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Physics",
+    "question": "A firework is launched on a parabolic [pair-uh-BAWL-ik] arc and explodes into ten fragments at the apex of this arc. After these pieces fall to the ground, their positions and masses are measured. Which of the following will be closest to the center of mass of these pieces? W) The launch point of the firework X) The point directly below where the firework exploded Y) The point at which the firework would have landed had it not exploded Z) The focus of the parabola [pah-RAB-ah-la]",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Physics",
+    "question": "In kilocalories and to two significant figures, how much energy does it take to heat 5 grams of water from 0 to 100 degrees Celsius and convert it all to steam, given that water has a heat of vaporization of 540 calories per gram?",
+    "answer": "3.2"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Biology",
+    "question": "What human organ is responsible for filtering and removing old red blood cells from the circulation, along with other various immunological roles?",
+    "answer": "SPLEEN"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Biology",
+    "question": "Identify all of the following three scenarios that are examples of facilitated diffusion: 1) A cortisol molecule passes through the plasma membrane; 2) A sodium ion is pumped out of a cell by an ATPase; 3) A water molecule passes through an aquaporin channel.",
+    "answer": "3"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What sedimentary rock is the primary ore of aluminum?",
+    "answer": "BAUXITE"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Rachel is trying to synthesize an alcohol from an alkane. Which of the following best describes the synthetic route she should take? W) An oxidation reaction followed by a substitution reaction X) A reduction reaction followed by a substitution reaction Y) A substitution reaction followed by an oxidation reaction Z) Two substitution reactions",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Which of the following is an application of the principle of inclusions? W) Mineral size will decrease with increasing metamorphic grade X) Any feature cutting across a layered rock must be younger than the rock it transects Y) Porphyroblasts [poor-feh-ROH-blasts] are older than their host rock Z) Xenoliths [ZEE-no-liths] are older than their host rock",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Which of the following best explains why yardangs [YAR-dangs] are narrower at their base? W) They typically have sediment deposited at their tops X) Sand abrasion typically only occurs close to the ground Y) There is little desert wind above 10 meters above the ground Z) Their bases are eroded by water that cannot reach their tops",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Chemists at Ames Lab are using powder X-ray diffraction to study novel hetero-structures. Which of the following photon wavelengths is closest to the one they used for their diffraction experiment? W) 10 centimeters X) 100 microns Y) 100 nanometers Z) 1 angstrom",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists supported by the Department of Energy are studying twistronics, which is the study of how the angle between two layers of a two-dimensional material affects their electronic properties. What carbon-based material most commonly makes up the layers these scientists are studying?",
+    "answer": "GRAPHENE"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is the remainder when 2x4 \u2013 7x \u2013 3 is divided by x \u2013 2?",
+    "answer": "15"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is the standard deviation of the following list of 4 numbers: 9, 11, 13, 19?",
+    "answer": "\u221a14"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Physics",
+    "question": "A battery that produces an electromotive force of 24 volts is connected to a 6-ohm resistor. Three amperes of current flows through the circuit. In ohms, what is the internal resistance of the battery?",
+    "answer": "2"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Physics",
+    "question": "To the nearest decibel, if a sound wave doubles in intensity, by how much does its decibel value increase?",
+    "answer": "3"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Biology",
+    "question": "What is the term for rod-shaped prokaryotic [PRO-care-ee-AW-tic] cells?",
+    "answer": "BACILLI"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Which of the following structures are possessed by lycophytes [like-oh-fites], cycads [SIGH-cads], and angiosperms? W) Flowers X) Pollen Y) Megaphylls Z) Xylem [ZYE-lum]",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "What rule in organic synthesis states that the more electropositive of a reacting species tends to bond to the least-highly-substituted carbon atom in an alkene [al-KEEN] during an addition reaction?",
+    "answer": "MARKOVNIKOV\u2019S RULE"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Infrared spectroscopy is most concerned with measuring what? W) Electronic transitions between valence energy levels X) Vibrational frequencies of chemical bonds Y) Electronic transitions between inner energy levels Z) Nuclear spin flips",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "How far, in parsecs, is a star with a parallax of 0.4 arcseconds?",
+    "answer": "2.5"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "During the formation of a neutron star, protons and electrons will combine to form neutrons and neutrinos. This reaction is mechanistically similar to what mode of radioactive decay? W) Alpha X) Beta plus Y) Beta minus Z) Electron capture",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Pacific Northwest National Lab researchers are studying the genomes of a phylum [FYE-lum] of fungi that includes truffles, morels [moor-ELLS], and baker\u2019s yeast. What phylum are they researching?",
+    "answer": "ASCOMYCOTA"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Brookhaven National Lab are studying the muon. Identify all of the following three statements that are true of the muon: 1) It can have integer spin; 2) Its electric charge can be negative one-third; 3) It is a fermion.",
+    "answer": "3"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Math",
+    "question": "A bag contains 14 uniquely-colored marbles. Two marbles are drawn simultaneously. How many different combinations are possible?",
+    "answer": "91"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Math",
+    "question": "A twice-differentiable function f of x on the real numbers has a negative second derivative for all x, and its graph contains the two points (2, 4) and (5, 9). What is the maximum possible integer value of f of 11?",
+    "answer": "18"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Physics",
+    "question": "A test charge is experiencing no net forces as it sits between two charges of +3 coulombs and +12 coulombs. If the distance between the test charge and the 3-coulomb charge is 5 meters, then, in meters, what is the distance between the 3- coulomb and the 12-coulomb charges?",
+    "answer": "15"
+  },
+  {
+    "set": "16",
+    "round": "5",
+    "number": "1",
+    "subject": "Physics",
+    "question": "Astronomers can use which of the following to determine the surface temperature of a star after measuring the peak wavelength of the star's spectrum? W) Wien's Law X) Stefan-Boltzmann equation Y) Hertzsprung\u2013Russell diagram Z) Rayleigh [RAY-lee]\u2013Jeans law",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Which of the following functional groups is created by the addition of an alkyne [AL-kine] to Lindlar\u2019s catalyst and hydrogen gas? W) Alkane X) Cis-alkene [sis-al-KEEN] Y) Trans-alkene Z) Alkyl [AL-kul] halide [HAY-lide]",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Identify all of the following three types of orbitals that can form sigma bonds: 1) 1s; 2) 2s; 3) 2p.",
+    "answer": "ALL"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Three hundred-millibar charts are used to visualize the dynamics of jet streams. Lines on these charts correspond to places that are equal in which of the following properties? W) Altitude X) Air pressure Y) Temperature Z) Humidity",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Place the following three regions of an unconfined aquifer in order of increasing depth: 1) Zone of saturation; 2) Zone of aeration; 3) Capillary fringe.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Energy",
+    "question": "Researchers at Lawrence Berkeley National Lab are using small angle X-ray scattering to study the structural biology of the protein XPG. XPG repairs DNA damage caused by UV photons. To which of the following DNA motifs would XPG most likely be bound? W) CG repeats X) DNA double strand breaks Y) Adjacent pyrimidines [pur-RIM-ih-deens] Z) Transcription start sites",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists at Argonne National Lab are studying supernova nucleosynthesis. Which of the following elements on Earth primarily originates from supernova nucleosynthesis? W) Arsenic X) Promethium [pro-MEE-thee-um] Y) Hydrogen Z) Beryllium",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Math",
+    "question": "If k is a positive integer such that the least common multiple of 80 and k is 5k, what is the greatest common divisor of 80 and k?",
+    "answer": "16"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Math",
+    "question": "A line is represented parametrically by the equations x = 3t + 5 and y = \u20132t \u2013 7. What are the slope and the y-intercept of this line?",
+    "answer": "SLOPE = \u20132/3, y-INTERCEPT = \u201311/3"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Physics",
+    "question": "Gabby has a device capable of pushing objects with an unknown amount of constant force. To determine the magnitude of this force, she makes several measurements by using the device to apply force to objects of varying mass and measuring the resultant acceleration. Which parameters should she choose for her x- and y-axes, respectively, such that the slope of the line of best fit is the force her device applies? W) Mass and acceleration X) One over mass and acceleration Y) Mass and one over acceleration Z) One over mass and one over acceleration",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Physics",
+    "question": "Identify all of the following three statements that are true of a skydiver as they approach terminal velocity: 1) Their speed is increasing; 2) Their acceleration magnitude is increasing; 3) The magnitude of the gravitational force on them is decreasing.",
+    "answer": "1"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Biology",
+    "question": "Juxtamedullary [juxta-MED-joo-lair- ee] and cortical nephrons differ most in the length of what segment of the nephron?",
+    "answer": "LOOP OF HENLE"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Biology",
+    "question": "Identify all of the following three statements that are true of bacterial chromosomes: 1) They are typically circular; 2) Bacteria only possess one chromosome per cell; 3) They possess telomeres [TEL-oh-meers].",
+    "answer": "1"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What is the IUPAC [EYE-you-pack] name of the product formed when acetic acid is reacted with lithium aluminum hydride in anhydrous conditions?",
+    "answer": "ETHANOL"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Butanone [BYOO-tah-known] can be synthesized via the reaction of what molecule with potassium dichromate in the presence of acid?",
+    "answer": "2-BUTANOL"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "The universe became transparent to light closest to which of the following temperatures in kelvins? W) 300,000 X) 30,000 Y) 3,000 Z) 300",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three statements that are true of Callisto [kah-LIS-toh]: 1) It is the largest moon of Saturn; 2) It has plate tectonics; 3) It has volcanism.",
+    "answer": "NONE"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Energy",
+    "question": "Geophysicists at SLAC National Accelerator Lab are studying the core-mantle boundary by imaging liquid silicates under shockwave conditions. What type of seismic body waves cannot cross the core-mantle boundary?",
+    "answer": "S-WAVES"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists supported by the Department of Energy are studying a phage ferredoxin [fair-eh-DOCK-sin]. What prosthetic group does this protein use for electron transfer?",
+    "answer": "IRON-SULFUR CLUSTER"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Math",
+    "question": "Find the value of a for which the following vectors are orthogonal: 36i + 20j and ai + 27j.",
+    "answer": "\u201315"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is the units digit of 7 to the 33rd power times 8 to the 55th power?",
+    "answer": "4"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Physics",
+    "question": "Which of the following describes how the electric potential due to a point charge scales with distance away from the charge? W) Linearly X) Quadratically Y) With the inverse Z) With the inverse squared",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Physics",
+    "question": "Identify all of the following three properties of an electromagnetic wave that can change when the wave passes from one medium to another: 1) Period; 2) Wavelength; 3) Speed.",
+    "answer": "2, 3"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Genes can be inserted into plasmids by treating both the gene and the plasmid with a restriction enzyme. The DNA fragments are then mixed and treated with what enzyme to complete the insertion?",
+    "answer": "DNA LIGASE"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Biology",
+    "question": "You are drawing the Punnett square to tally the F2 generation of a trihybrid cross. How many entries are present within this square?",
+    "answer": "64"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "M over Z is a measured quantity in which of the following analytical techniques? W) Mass spectrometry X) Infrared spectroscopy Y) NMR spectroscopy Z) UV-vis spectroscopy",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "In a typical thin-layer chromatography experiment, what is the stationary phase?",
+    "answer": "SILICA"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "The prevailing wind is blowing towards the south along the west coast of the United States. In which cardinal direction will the net water movement be?",
+    "answer": "WEST"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three quantities for which mafic [MAY-fik] rocks exceed felsic rocks: 1) Silica content; 2) Specific gravity; 3) Melting temperature.",
+    "answer": "2, 3"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Pacific Northwest National Lab researchers are studying different processes that can lead to cognitive decline, such as the sclerosis of the region of the brain most associated with learning and memory. What is the term for this C-shaped structure?",
+    "answer": "HIPPOCAMPUS"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Brookhaven National Lab are studying a quantum-mechanical phase of matter that is a gas composed of only bosons. What is the term for this type of gas?",
+    "answer": "BOSE GAS"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is the product of \u2013\u221a7 \u2013 2i and its complex conjugate?",
+    "answer": "11"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is the integral from x = 2 to x = cube root of 13 of x2 times the square root of open parenthesis x3 \u2013 4 close parenthesis dx?",
+    "answer": "38/9"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Physics",
+    "question": "If two simple pendulums have the same oscillation [aw-sih-LAY-shun] frequency but pendulum A has twice the mass of pendulum B, what is the length of pendulum B? W) Half that of pendulum A X) The same as pendulum A Y) Twice that of pendulum A Z) Four times that of pendulum A",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Physics",
+    "question": "A boat is sliding down a ramp. The ramp is angled at 30 degrees to the horizontal, and the coefficient of kinetic friction between the boat and the ramp is 0.25. To the nearest meter per second squared, what is the acceleration of the boat down the ramp?",
+    "answer": "3"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Biology",
+    "question": "What is the term for the process by which plants grow toward light?",
+    "answer": "PHOTOTROPISM"
+  },
+  {
+    "set": "16",
+    "round": "6",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Identify all of the following three proteins that can be found in the extracellular matrix: 1) Elastin; 2) Albumin; 3) Fibronectin.",
+    "answer": "1, 3"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Which layer of the Sun is thickest? W) Photosphere X) Convection zone Y) Core Z) Radiation zone",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three planets that can be at quadrature relative to Earth: 1) Mars; 2) Jupiter; 3) Saturn.",
+    "answer": "ALL"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists at Oak Ridge National Lab are developing methods to deuterate [DOO-tur-ate] benzene. One of their reactions adds four deuterium [doo-TEER-ee-um] atoms to benzene, resulting in what molecule? W) Hexane X) Cyclohexane [sigh-kloh-HEX-ane] Y) Cyclohexene [sigh-kloh-HEX-een] Z) Cyclohexa-1,3-diene [sigh-kloh-hexa-one-three-DYE-een]",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists supported by the Department of Energy are studying penicillin-binding proteins. These proteins are what class of enzyme? W) Glycosidase [glye-koh-SIGH-dase] X) Transpeptidase [trans-PEP-tih-dase] Y) Reductase [ree-DUCK-tase] Z) Peroxidase",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Math",
+    "question": "The altitude to the hypotenuse of a right triangle divides the hypotenuse into segments of length 7 and 8. What is the length of the altitude?",
+    "answer": "2\u221a14"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Math",
+    "question": "How many zeroes occur at the right of the number of permutations of 90 objects taken 40 at a time?",
+    "answer": "9"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Physics",
+    "question": "A particle has a position function given by x of t equals 1 over t squared. What is the particle\u2019s instantaneous speed at t = 2?",
+    "answer": "ONE-FOURTH"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Physics",
+    "question": "A dam is holding back a lake that has a water level of 80 meters. A large crack forms at the base of the dam. In meters per second, which of the following is closest to the water speed through the crack? W) 60 X) 40 Y) 30 Z) 10",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Biology",
+    "question": "The dikaryon is a result of the fusion of two cells without the fusion of their nuclei. This feature is unique to what kingdom of life?",
+    "answer": "FUNGI"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Biology",
+    "question": "The antiviral drug remdesivir [rem-DES-ih-veer] is metabolized within cells into a nucleotide analog that inhibits RNA-dependent RNA polymerases [pah-LIM-er-aces]. Which of the following viruses would be LEAST likely to be susceptible to remdesivir? W) Poliovirus X) Ebola virus Y) Influenza virus Z) Human immunodeficiency virus",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "The half-reaction for substance A is a five-electron reduction with a standard cell potential of +1.5 volts, while the half-reaction for substance B is a two-electron reduction with a standard cell potential of +1.6 volts. In volts, what would be the electrode potential of a galvanic cell containing these two substances?",
+    "answer": "0.1"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Rank the following three molecules in terms of increasing volatility: 1) Butanoic [byoo-tan-OH-ik] acid; 2) Butanal [byoo-ta-NAL]; 3) Butane.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "For a seismometer placed 100 miles from the focus of an earthquake, place the following three wave types in chronological order of their detection: 1) Surface waves; 2) P waves; 3) S waves.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three changes that occur as a result of El Ni\u00f1o: 1) Trade winds slacken; 2) Western Pacific upwelling declines; 3) The tropical Pacific Ocean cools.",
+    "answer": "1, 2"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Energy",
+    "question": "Materials researchers at Los Alamos National Lab have developed a new method for making quantum dots for solar cells without using toxic metals. What toxic, group 12 metal, bonded to sulfur or selenium, is commonly used in most commercially-made quantum dots today?",
+    "answer": "CADMIUM"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists at Pacific Northwest National Lab are studying point defects in crystal structures that resemble adamantane [ad-ah-MAN-tayn]. What material is this crystal structure named after?",
+    "answer": "DIAMOND CUBIC"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Math",
+    "question": "Counting itself, what is the 4th-largest integer factor of 1600?",
+    "answer": "320"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "",
+    "subject": "Math",
+    "question": "What is the y-coordinate of the y-intercept of the line tangent to the circle x2 + y2 = 25 at the point (4, 3)?",
+    "answer": "25/3"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Physics",
+    "question": "A planet is orbiting its star in a circular orbit with an orbital speed of 10 kilometers per second. To the nearest kilometer per second, what is the escape velocity from the star at the radius of the planet's orbit?",
+    "answer": "14"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Physics",
+    "question": "Linda has a container of gas at 400 kelvins, which has 20 kilo-joules of thermal energy. If she has access to a reservoir that is maintained at 100 kelvins, then in kilo-joules, what is the maximum amount of work she can extract from the gas?",
+    "answer": "15"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Melissa synthesizes a DNA plasmid in which expression of green fluorescent protein is under the lac [lack] promoter and lacI [lack-EYE] is upstream of the promoter. Which of the following small molecules can she add to bacteria expressing this plasmid to induce expression of green fluorescent protein? W) Cyclic AMP X) CAP Y) Allolactose Z) X-gal",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Nitrification by soil bacteria results in the oxidation of ammonia. What ion is the final product of this process?",
+    "answer": "NITRATE"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "What IUPAC [EYE-you-pack] stem indicates that a molecule has four carbons?",
+    "answer": "BUT"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "When cobalt (III) ions react with ammonia, they form an octahedral coordination compound. What is the chemical formula and charge of this compound?",
+    "answer": "[Co"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Triton's retrograde orbit provides the strongest evidence for which of the following hypotheses? W) It has a deep subsurface ocean X) It generates an intrinsic magnetic field Y) It was a captured moon Z) It formed from a collision with another planet",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following extends farthest from the Sun? W) Oort [ort] cloud X) Kuiper [KYE-pur] belt Y) Heliopause Z) Termination shock",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Pacific Northwest National Lab are analyzing radar reflectivity measurements of squall line systems. Much of the reflectivity that originates from raindrops is due to what type of scattering, where the scattering particles are much smaller than the wavelength of light?",
+    "answer": "RAYLEIGH"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Lawrence Berkeley National Lab are developing materials to detect the presence of anthrax toxin, which is secreted by virulent [VEER-yoo-lent] strains of what bacterial genus?",
+    "answer": "BACILLUS"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Math",
+    "question": "According to the rational root theorem, what are the smallest and the largest possible positive rational roots of the equation 6x3 \u2013 9x2 \u2013 10 = 0?",
+    "answer": "SMALLEST = 1/6, LARGEST = 10"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Math",
+    "question": "Given 4 distinct buckets and 7 indistinguishable marbles, in how many different distinguishable ways can the marbles be arranged in the buckets?",
+    "answer": "120"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Physics",
+    "question": "An electron undergoing a transition between energy levels in an atom releases a photon with an energy of 2 electron volts. To what range of the electromagnetic spectrum does this photon belong? W) Microwave X) Visible Y) Ultraviolet Z) X-ray",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Physics",
+    "question": "In watts per meter squared, what is the absolute difference in intensity between a 140-decibel sound and a 120-decibel sound?",
+    "answer": "99"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Which of the following forms of selection is most conducive for sympatric speciation? W) Stabilizing X) Directional Y) Disruptive Z) Purifying",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Place the following three events that occur during muscle contraction in chronological order: 1) Calcium binds troponin [TROH-poh-nin]; 2) Acetylcholine is released; 3) Action potentials propagate down T-tubules.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Nick has an unknown compound that he has determined to be soluble in water and produces a solution that is not electrically conductive. Which of the following might the compound be? W) Sucrose X) Sodium chloride Y) Silicon dioxide Z) Hexane",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "7",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "What is the chemical formula of ethanamine [eth-AN-ah-meen]?",
+    "answer": "C H N"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists at SLAC National Accelerator Lab are studying how the size of metal nanoparticles in catalytic converters affects the rate of decomposition of nitrogen oxides. For the reaction that these nanoparticles are catalyzing, what are the signs of delta G and delta S, respectively?",
+    "answer": "DELTA G NEGATIVE AND DELTA S POSITIVE"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Energy",
+    "question": "SLAC National Accelerator Facility scientists are studying the receptor GABA-B [GAB-ah bee]. Identify all of the following statements that are true of this receptor: 1) It is expressed by excitatory interneurons; 2) It is an ion channel; 3) It is a transmembrane protein.",
+    "answer": "1, 3"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Math",
+    "question": "At the point with coordinates (natural log of 2, e), what is the partial derivative with respect to x of the expression e to the x times the natural log of y?",
+    "answer": "2"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Math",
+    "question": "What is the cube of the complex number 4 + 5i?",
+    "answer": "\u2013236 + 115i"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Physics",
+    "question": "Consider a spherical planet with a mass twice that of Earth and a radius twice that of Earth. In meters per second squared, what is the magnitude of the acceleration due to gravity on the surface of this planet?",
+    "answer": "4.9"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Physics",
+    "question": "Consider a clock moving at 50% of the speed of light relative to a stationary observer. How long, in minutes and to two significant figures, would it take for the speeding clock\u2019s second hand to complete two revolutions as measured by the stationary observer?",
+    "answer": "2.3"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Biology",
+    "question": "Chylomicrons [KYE-loh-microns] transport what class of macronutrients away from the small intestines?",
+    "answer": "FATS"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Biology",
+    "question": "Identify all of the following three quantities regarding enzyme kinetics that change when an enzyme is in the presence of a competitive inhibitor: 1) V-max; 2) Michaelis constant; 3) Structure of the enzyme-substrate complex.",
+    "answer": "2"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What is the term for the value of a reaction coordinate that is reduced by the addition of a catalyst?",
+    "answer": "ACTIVATION ENERGY"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "How many straight-chain structural isomers does C H possess? 6 12",
+    "answer": "3"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Sinuous [SIN-yoo-us] rilles on the Moon are thought to have been created by which of the following? W) Rivers of water X) Meteor impacts Y) Tectonic activity Z) Lava flows",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "The faintest objects you can see with your eyes have a magnitude of 6. If a telescope has a diameter 1000 times that of your eye, what is the magnitude of the faintest object you can see with this telescope?",
+    "answer": "21"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Energy",
+    "question": "Researchers at SLAC National Accelerator Lab are using the LCLS to produce X-rays for molecular imaging. How does the LCLS produce X-rays? W) By using a solid crystal gain medium to produce photons with all possible phase offsets X) By using electrons accelerated in a vacuum to produce photons with all possible phase offsets Y) By using a solid crystal gain medium to produce photons in phase Z) By using electrons accelerated in a vacuum to produce photons in phase",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists at Lawrence Berkeley National Lab are part of the CUORE [kyoo-OR-ay] experiment, which is studying beta decay. Specifically, they are testing the hypothesis that what particle is its own antiparticle?",
+    "answer": "NEUTRINO"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Math",
+    "question": "What is the largest integer n such that 5 to the nth power divides 21 factorial?",
+    "answer": "4"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Math",
+    "question": "Triangle ABC has all angles with integral degree measures, and the measure of angle A equals 12 times the measure of angle B. How many possible degree measures are there for angle C?",
+    "answer": "13"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Physics",
+    "question": "Which of the following best describes how the kinetic energy of ejected electrons depends on the frequency and the intensity of light in the photoelectric effect? W) Increases linearly with intensity, inversely proportional to frequency X) Increases linearly with frequency, inversely proportional to intensity Y) Increases linearly with intensity, independent of frequency Z) Increases linearly with frequency, independent of intensity",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "",
+    "subject": "Physics",
+    "question": "A hydrogen atom has an ionization energy of 13.6 electron volts in its ground state. To the nearest electron volt, what is the energy of the photon produced when an electron transitions from the N = 2 level to the N = 1 level in a hydrogen atom?",
+    "answer": "10"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Which of the following best describes the direct impact of the founder effect in population evolution? W) There is a loss of genetic variability X) There is a formation of new species Y) There is a build-up of deleterious mutations Z) There is a loss of individual fitness",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Identify all of the following three plant hormones that would generally result in stem elongation when applied to a plant: 1) Ethylene; 2) Auxins; 3) Gibberellins [jib-er-ELL-ins].",
+    "answer": "ALL"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "In a proton NMR spectrum, a proton associated with which of the following carbon atoms would be predicted to have the largest chemical shift? W) Alkyl [AL-kul] carbon X) Alkenyl [AL-ken-ill] carbon Y) Carbonyl [carboh-nil] carbon Z) Aryl [AIR-il] carbon",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Rank the following three organic compounds in order of increasing standard heat of formation: 1) Nonane [NO-nayn]; 2) Hexane; 3) Propane.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Spring tides occur at what two lunar phases?",
+    "answer": "NEW, FULL"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Place the following three layers of oceanic crust from deepest to shallowest: 1) Layered gabbro; 2) Pillow lavas; 3) Sheeted dikes.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Pacific Northwest National Lab are studying the regeneration of collagen in fish scales. What is the most common amino acid found in collagen?",
+    "answer": "GLYCINE"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at the DIII-D [D3D] Facility are using a tokamak [TOH-kah-mak] to study what type of reaction?",
+    "answer": "NUCLEAR FUSION"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Math",
+    "question": "Identify all of the following three types of figures that must have turn symmetry: 1) Isosceles triangle; 2) Parallelogram; 3) Kite.",
+    "answer": "2"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is the approximation for the sine of 2 that results from using the first 3 nonzero terms of the Taylor series for sine of x centered at 0?",
+    "answer": "14/15"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Physics",
+    "question": "Materials that obey Hooke\u2019s Law will return to their original state unless they are stretched beyond a certain limit, which will cause permanent distortion. What is this limit?",
+    "answer": "ELASTIC LIMIT"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Physics",
+    "question": "Consider a transformer with 100 turns on the primary coil and 300 on the secondary coil. If 50 volts of alternating current is put across the primary and the secondary is connected to a circuit with a resistance of 40 ohms, then, in watts, what is the power in the secondary coil?",
+    "answer": "562.5"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Biology",
+    "question": "H3K9me3 is a commonly-encountered modification that can greatly impact transcription. What type of protein does this modification affect?",
+    "answer": "HISTONE"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Which of the following is NOT a widely-conserved element of the mollusk body plan? W) Foot X) Visceral mass Y) Mantle Z) Shell",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "For calcium, which of the following energy sublevels is closest in energy to the 4s sublevel? W) 3s X) 3d Y) 4p Z) 4d",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "A certain reaction has a free energy change of negative 5 kilojoules per mole at 300 kelvins. To two significant figures, what is the equilibrium constant of this reaction at this temperature?",
+    "answer": "7.4"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following air masses is responsible for causing lake-effect snow in the Great Lakes region? W) Maritime tropical X) Continental tropical Y) Maritime polar Z) Continental polar",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "8",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following geologic settings is indicative of a transgressive sequence? W) Limestone deposited on top of shale X) Sand deposited on top of limestone Y) Sand deposited on top of shale Z) Shale deposited on top of limestone",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Math",
+    "question": "The sums of three whole numbers taken in pairs are 10, 15, and 17. What is the largest of these three numbers?",
+    "answer": "11"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Math",
+    "question": "What is the area of a circle that circumscribes a rectangle with sides of lengths 16 and 22?",
+    "answer": "185\u03c0"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Physics",
+    "question": "An organ pipe open at one end has a fundamental frequency of 50 hertz. Identify all of the following three frequencies that would remain as harmonics if both ends of the organ pipe were opened to the air: 1) 150 hertz; 2) 250 hertz; 3) 350 hertz.",
+    "answer": "NONE"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Physics",
+    "question": "Andrew connects a vacuum pump to a long tube and dips the other end of the tube into a swimming pool directly below him. In meters, which of the following distances is closest to the maximum height he could pump water up the tube? W) 1 X) 5 Y) 10 Z) 25",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Biology",
+    "question": "While the lens of the eye provides dynamic tuning of its focus, the majority of the optical power of the eye derives from what structure?",
+    "answer": "CORNEA"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Biology",
+    "question": "Identify all of the following three types of carbon fixation that utilize oxaloacetate [ox-aloe-ASS-eh-tate] as an intermediate to concentrate carbon dioxide around rubisco [roo-BIS-koh]: 1) C3; 2) C4; 3) CAM.",
+    "answer": "2, 3"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "While amino acids can be either D or L, life on Earth only uses L amino acids. These are an example of what type of isomers?",
+    "answer": "STEREOISOMERS"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Consider a reaction that obeys the Arrhenius [ah-REE-nee-us] equation. If the natural log of reaction rate is graphed on the y-axis and one over absolute temperature is graphed on the x-axis, then, in terms of the activation energy E, the ideal gas constant R, and the pre-exponential factor A, what will the slope of this graph be?",
+    "answer": "NEGATIVE E/R"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "The subtropical jet stream usually lies between what two circulation cells?",
+    "answer": "HADLEY AND FERRELL"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three statements that are true of lahars: 1) Lahars are typically generated by composite cone volcanoes; 2) The eruption of Mount Vesuvius in CE 79 created lahars; 3) Lahars [lah-HARS] can occur without a volcanic eruption.",
+    "answer": "1, 3"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Energy",
+    "question": "Researchers at Thomas Jefferson National Accelerator Facility use hadron calorimeters to detect particles created in their accelerator. Identify all of the following four particles that are hadrons: 1) Muon; 2) Kaon; 3) Proton; 4) Neutrino.",
+    "answer": "2 AND 3"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists at the Joint Genome Institute are using 16S rRNA sequencing to profile bacterial populations. What is the typical purpose of this sequence in the bacterium? W) Transferring amino acids from the tRNA to the nascent peptide X) Binding the codon at the A site Y) Binding the start codon Z) Binding the Shine-Dalgarno sequence",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Math",
+    "question": "The zeroes of a function f of x on the real numbers are at \u20133, 4, and 5. What are the zeroes of the function f of the absolute value of x?",
+    "answer": "\u20135, \u20134, 4, AND 5"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Math",
+    "question": "What is the volume of the solid obtained by rotating about the y-axis the first-quadrant region bounded by the graphs of y = x \u2013 x5 and y = 0?",
+    "answer": "8\u03c0/21"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Physics",
+    "question": "In Compton scattering, a charged particle receives energy and momentum from a collision with what other particle?",
+    "answer": "PHOTON"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Physics",
+    "question": "A spacecraft is orbiting a star, and powering itself using a photovoltaic cell. If the star\u2019s absolute temperature is doubled, and the spacecraft moves to a distance three times as great from the star, by what factor will the power output of its photovoltaic cell be multiplied?",
+    "answer": "16/9"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Biology",
+    "question": "What complex removes introns from pre-mRNA?",
+    "answer": "SPLICEOSOME"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "",
+    "subject": "Biology",
+    "question": "Pseudogenes are commonly found in the genome of an organism. Which of the following describes the most likely mechanism of how these features arose? W) Inversion X) Polyploidy [poly-ploy-dee] Y) Deletion Z) Duplication",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "What is the denticity of EDTA?",
+    "answer": "HEXADENTATE"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "What is the IUPAC [EYE-you-pack] name of the major organic product formed when benzene is reacted with a concentrated mixture of nitric and sulfuric acid at high temperature?",
+    "answer": "NITRO-BENZENE"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following is closest to the length of time, in years, it takes Earth to complete one cycle of its orbital eccentricity variation? W) 26,000 X) 41,000 Y) 87,000 Z) 100,000",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Rank the following three spectral types of stars in order of increasing ability to ionize hydrogen with their emitted light: 1) B1; 2) O7; 3) O5.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Oak Ridge National Lab\u2019s Isotope Production Program are producing trans-uranium radio- isotopes. Which of the following most accurately describes how they are produced? W) Multiple neutron captures by lighter nuclei X) Fusion of nuclei around half the mass of the target isotope Y) Fission of nuclei around twice the mass of the target isotope Z) Successive alpha decays of slightly heavier nuclei",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Pacific Northwest National Lab are using artificial neural networks with multiple hidden layers to design energy-efficient buildings. What is the term for this family of machine-learning algorithms that use artificial neural networks with multiple hidden layers?",
+    "answer": "DEEP LEARNING"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is the 4/3 power of \u201327?",
+    "answer": "81"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Math",
+    "question": "Alice and Bob each flip their own coin as many times as needed until their coin lands on heads. What is the probability that Alice and Bob each flipped their coin the same number of times?",
+    "answer": "1/3"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Physics",
+    "question": "The intensity of light scattered by Rayleigh [RAY-lee] scattering is directly proportional to what power of wavelength? W) \u20134 X) \u20132 Y) 2 Z) 4",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Physics",
+    "question": "What nuclide has the lowest average nuclear binding energy per nucleon?",
+    "answer": "HYDROGEN-1"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Biology",
+    "question": "A certain flower has a large amount of nectar, is colored red, and has no fragrance. Which of the following pollination vectors did it evolve to exploit? W) Moths X) Birds Y) Bats Z) Butterflies",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Which of the following basic tastes is NOT recognized by a G-protein-coupled receptor? W) Sweet X) Bitter Y) Sour Z) Umami",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "According to VSEPR [VESS-pur] theory, what is the predicted molecular geometry of the nitrate ion?",
+    "answer": "TRIGONAL PLANAR"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Rank the following three compounds in order of increasing distance traveled in a thin layer chromatography experiment using a mixture of hexane and ethyl acetate as the mobile phase on silica: 1) Nitrobenzene; 2) Hexane-1,6-dicarboxylic [one-six-DYE-car-box-IHL-ik] acid; 3) Toluene.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following events is thought to be the main reason for the development of starburst galaxies? W) Hypernova X) Black hole collision Y) Galaxy merger Z) Activation of the galactic nucleus",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "You are observing an object traveling away from you approaching the event radius of a black hole. Which of the following would you expect to see? W) The object slows down and turns redder as it approaches X) The object slows down and turns bluer as it approaches Y) The object speeds up and turns redder as it approaches Z) The object speeds up and turns bluer as it approaches",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Oak Ridge National Lab are using defect engineering to control the electrical properties of graphene. Identify all of the following three statements that are accurate about graphene: 1) It is a monolayer; 2) The carbon atoms are sp3 hybridized; 3) It can be doped.",
+    "answer": "1, 3"
+  },
+  {
+    "set": "16",
+    "round": "9",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Researchers at Lawrence Berkeley National Lab are studying acyl-CoA [AY-sil koh-A] dehydrogenase enzymes. In what process are these enzymes involved? W) Photosynthesis X) Beta oxidation Y) Steroid biosynthesis Z) Heme synthesis",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Physics",
+    "question": "An arch supported only by its own strength will be strongest if the shape of the arch follows what mathematical curve?",
+    "answer": "CATENARY"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Physics",
+    "question": "A theoretical circuit has an infinite number of resistors placed in parallel. The first resistor has a resistance of one ohm, and each following resistor has twice the resistance of the previous one. In ohms, what is the total resistance across the circuit?",
+    "answer": "1/2"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Biology",
+    "question": "In brown fat, thermogenin [thermo-JEN-in] uncouples the mitochondrial proton gradient from the action of what enzyme?",
+    "answer": "ATP SYNTHASE"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Biology",
+    "question": "T cells undergo a process of central tolerance in order to prevent autoimmunity. In what organ does this process occur?",
+    "answer": "THYMUS"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "Which of the following pairs would have the most exothermic reaction? W) Rubidium [roo-BID-ee-um] and chlorine X) Potassium and chlorine Y) Potassium and bromine Z) Rubidium and iodine",
+    "answer": "W"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What color can hexa-aqua-iron (III) appear to be in aqueous solution? W) Pink X) Green Y) Yellow Z) Blue",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "When Karl Jansky noticed a source of radio interference appearing from all directions in the sky, he measured the daily peak strength of the interference. Which of the following best describes how this peak changed each day? W) It was one hour earlier each day X) It was 4 minutes earlier each day Y) It was 4 seconds earlier each day Z) It was at the same time each day",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three types of fusion that are sustainable in a brown dwarf with 75 times the mass of Jupiter: 1) Protium; 2) Deuterium [doo-TEER-ee-um]; 3) Lithium.",
+    "answer": "2, 3"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists at SLAC National Accelerator Lab are shooting femtosecond electron pulses at samples and measuring their diffraction signals with time resolution. Which of the following phenomena is best probed by this type of experiment? W) Protein crystal structures X) Nuclear spin environments in molecules Y) Chemical kinetics Z) Extent of charge-parity asymmetry",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Energy",
+    "question": "Scientists supported by the Department of Energy are studying the human pathogen Pseudomonas aeruginosa [soo-doh-MOH-nus air-roo-jin-OH-sah]. Identify all of the following three statements that are true of this bacterium: 1) It is Gram-negative; 2) It is rod-shaped; 3) It typically infects the immunocompromised.",
+    "answer": "ALL"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Math",
+    "question": "What is the absolute value of the product of the two complex numbers 1 + 3i and 2 \u2013 i?",
+    "answer": "5\u221a2"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Math",
+    "question": "What are the coordinates of the image of the point (\u20137, 6) when it is rotated about the point (1, \u20134) by 90 degrees clockwise?",
+    "answer": ""
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Physics",
+    "question": "A charge of 2 coulombs is placed at the origin, and a second charge is placed on the x-axis at x = \u20133. In coulombs, for what value of the second charge is there to be no net force on a test charge placed on the x-axis at x = 1?",
+    "answer": "\u201332"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Physics",
+    "question": "Identify all of the following three quantities that, according to the Einstein field equations, affect the curvature of spacetime in a given place and time: 1) Energy density; 2) Momentum density; 3) Mass density.",
+    "answer": "ALL"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Biology",
+    "question": "During mitosis, spindle fibers attach to what protein structures located on the centromeres [SEN-troh-meers] of chromosomes?",
+    "answer": "KINETOCHORES"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Biology",
+    "question": "Which of the following statements about vertebrates is false? W) All reptiles are tetrapods X) All gnathostomes [NAY-tho-stohmes] are vertebrates Y) All tetrapods are amniotes Z) All vertebrates are chordates [KOR-dates]",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "When oxygen is photolyzed, it breaks into two oxygen atoms with unpaired electrons. What is the term for this type of species?",
+    "answer": "FREE RADICAL"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "",
+    "subject": "Chemistry",
+    "question": "What is the IUPAC [EYE-you-pack] name of the major organic product of the reaction of propene with hydrogen gas in the presence of Raney nickel?",
+    "answer": "PROPANE"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Marine sediment in the North Atlantic is primarily calcareous [kal-CARE-ee-us] ooze, while marine sediment in the North Pacific is primarily pelagic [peh-LAJ-ik] clay. Which of the following best explains why? W) The North Pacific has a higher pH than the North Atlantic X) The North Pacific is deeper than the North Atlantic Y) The North Pacific has a lower pH than the North Atlantic Z) The North Pacific has more dissolved oxygen than the North Atlantic",
+    "answer": "Y"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Identify all of the following three statements about the fossil record that are true: 1) The earliest evidence of multi-cellular life is in the Paleozoic; 2) Shelly fossils first appeared in the Mesozoic; 3) Most trilobites [TRY-low-bites] went extinct near the end of the Cambrian.",
+    "answer": "3"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Brookhaven National Lab are studying the protein that gives coronaviruses the shape they were named for and are their interface with host cells. What is the name for this protein?",
+    "answer": "SPIKE PROTEIN"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Argonne National Lab are studying the structure of antibodies. Identify all of the following three antibodies that are typically monomeric: 1) IgG; 2) IgM; 3) IgE.",
+    "answer": "1, 3"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is f prime of 2 for the function f of x = x3 times e to the x?",
+    "answer": "20e2"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Math",
+    "question": "What is the cross product of vectors i + 3j \u2013 2k and i + 2j?",
+    "answer": "4i \u2013 2j \u2013 k"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Physics",
+    "question": "The de Broglie [da-BROY] wavelength of an object is equal to Planck's constant divided by what property of the object?",
+    "answer": "MOMENTUM"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Physics",
+    "question": "A positively-charged particle is moving in the vicinity of a long current-carrying wire. For which of the following directions of the initial velocity will the particle be repelled from the wire? W) Directly towards the wire X) Directly away from the wire Y) In the same direction as the current Z) Opposite the direction of the current",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Biology",
+    "question": "What pigmented compound is the result of hemoglobin degradation and is often found to be elevated in individuals with hepatitis?",
+    "answer": "BILIRUBIN"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Biology",
+    "question": "Which of the following chromatographic methods is likely to be the most effective for isolating large protein aggregates from smaller protein complexes? W) Strong cation exchange chromatography X) Anion exchange chromatography Y) Reverse phase chromatography Z) Gel filtration chromatography",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Which of the following catalysts is typically used for hydrogenating unsaturated oils? W) Iron X) Vanadium [vah-NAY-dee-um] oxide Y) Copper Z) Nickel",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Chemistry",
+    "question": "Consider the compound cis [sis]-1- chloro-3-tert-butylcyclohexane [BYOO-til cyclo-HEX-ane]. Identify all of the following three statements that are TRUE of the most stable chair conformation: 1) Chlorine is axial; 2) Tert-butyl is equatorial; 3) All carbon-carbon bonds sit in a single plane.",
+    "answer": "2"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following most directly determines whether a rock will develop foliation during metamorphism? W) Temperature regime X) Grain size of primary mineral assemblage Y) Water content Z) Presence of differential pressure",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Earth and Space",
+    "question": "Which of the following would lead to the formation of an emergent coast? W) Sea ice formation X) Continental ice sheet formation Y) Intense storm activity Z) Increased continental weathering",
+    "answer": "X"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Pacific Northwest National Lab are studying antibiotic resistance in the bacterial genus Mycobacterium. One strain of Mycobacterium causes a disease in humans in which it replicates within nerve cells or macrophages, eventually causing the loss of the extremities in which it replicates. What is the name of this disease?",
+    "answer": "LEPROSY"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Energy",
+    "question": "Scientists at Pacific Northwest National Lab are developing sodium-ion batteries. Which of the following best explains why graphite is not used as the anode in these batteries? W) Graphite is used as the cathode X) Graphite is dissolved by the electrolytes used in these batteries Y) Graphite has significant reactivity to sodium ions Z) Graphite cannot store appreciable amounts of sodium ions",
+    "answer": "Z"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Math",
+    "question": "In a triple-elimination tournament, each game is played by two teams, there are no ties, and teams are eliminated when they have lost 3 times. What is the maximum number of games played if 53 teams enter?",
+    "answer": "158"
+  },
+  {
+    "set": "16",
+    "round": "10",
+    "number": "1",
+    "subject": "Math",
+    "question": "In base 8, what is five-six times two-seven?",
+    "answer": "TWO-ZERO-FOUR-TWO"
+  }
+]
