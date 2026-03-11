@@ -5077,7 +5077,7 @@
     "number": "18",
     "subject": "MATH",
     "question": "In the algebra of real-valued functions, give the name or number of all of the following 3 choices that the implied domain usually excludes: 1) numbers causing division by zero 2) numbers causing imaginary numbers in the range 3) numbers causing irrational numbers in the range",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "1",
@@ -7901,7 +7901,7 @@
     "number": "22",
     "subject": "CHEMISTRY",
     "question": "A sample of an ideal gas is placed in a sealed container of fixed volume. The gas is heated from 25.0o Celsius to 45.0o Celsius. Identify all of the following four factors that will increase: 1) the pressure of the gas, 2) the average kinetic energy of the gas, 3) the density of the gas, 4) the intermolecular forces.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "2",
@@ -9957,7 +9957,7 @@
     "number": "6",
     "subject": "ENERGY",
     "question": "By number, identify all of the following three statements that correctly indicate advantages of the high energy phosphate system: 1) It produces energy at a slow rate but for a long duration; 2) Its rate of recovery is relatively rapid; 3) It can produce large amounts of energy in a short amount of time.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "2",
@@ -10557,7 +10557,7 @@
     "number": "20",
     "subject": "ENERGY",
     "question": "By number, identify all of the following four statements that accurately describe the processes involved in aerobically producing ATP: 1) Although prokaryotic [proh-KAR-ee-oh-tik] cells lack mitochondria [my-tuh-KON-dree-uh] and cristae [KRIS-tuh], they use a proton pump to produce ATP; 2) Energy is liberated when the chemical bond between ATP and its phosphate subgroup is formed; 3) Oxygen is used in the last step of aerobic respiration to produce water; 4) Chemiosmosis produces more ATP molecules than oxidative phosphorylation [FOS-fer-uh-lay-shuhn].",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "2",
@@ -11260,7 +11260,7 @@
     "round": "13",
     "number": "16",
     "subject": "EARTH AND SPACE",
-    "question": "The focal ratio of a radio telescope is generally which of the following? W) Less than 1 X) Between 1 and 2 Y) Between 2 and 10 Z) Greater than 10",
+    "question": "The focal ratio of a radio telescope is generally which of the following? W) Less than 1 X) Between 1, 2 Y) Between 2 and 10 Z) Greater than 10",
     "answer": "W"
   },
   {
@@ -11373,7 +11373,7 @@
     "number": "23",
     "subject": "ENERGY",
     "question": "By number, identify all of the following four statements regarding energy systems that are true: 1) Aerobic and anaerobic distinction is made depending on whether carbon dioxide is produced in the production of energy; 2) Both aerobic and anaerobic energy systems use substrate phosphorylation to synthesize ATP; 3) Energy systems differ from each other with respect to the rate and the duration of energy production; 4) Lactic acid is produced during energy production by the high energy phosphate system.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "2",
@@ -16245,7 +16245,7 @@
     "number": "8",
     "subject": "CHEMISTRY",
     "question": "In which positions on the benzene ring are the methyl groups found in the compound o-xylene or ortho-xylene (read as: ORTHO-ZIE-lean):",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "3",
@@ -16573,7 +16573,7 @@
     "number": "3",
     "subject": "BIOLOGY",
     "question": "By number or name, identify all of the following 4 processes that contribute directly to genetic variation in humans: 1) random fertilization of ova with sperm; 2) crossing over; 3) independent assortment; 4) mitosis",
-    "answer": "1, 2 AND 3"
+    "answer": "1, 2, 3"
   },
   {
     "set": "3",
@@ -17477,7 +17477,7 @@
     "number": "10",
     "subject": "BIOLOGY",
     "question": "By number or name, identify all of the following 4 areas of plants where you would be MOST likely to see meristematic tissue: 1) longitudinal section of a terminal bud 2) cross-section of the pith of a sunflower stem 3) transverse section of a lateral root tip 4) cross-section of central parenchymal cells of a corn stem",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "3",
@@ -28285,7 +28285,7 @@
     "number": "14",
     "subject": "CHEMISTRY",
     "question": "By number, identify all of the following four statements that are TRUE: 1) liquids with large intermolecular forces tend to have very low boiling points, 2) liquids with large intermolecular forces tend to have considerable surface tension, 3) ethanol has a higher boiling point than methanol, 4) the hardness of diamond is due to strong van der Waals forces.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "5",
@@ -28413,7 +28413,7 @@
     "number": "22",
     "subject": "EARTH AND SPACE",
     "question": "By number, identify all of the following five choices that will allow greater resolution for a radio telescope: 1) lower noise temperature, 2) larger diameter, 3) longer baseline, 4) adaptive optics system, 5) larger brightness temperature of the source.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "5",
@@ -29533,7 +29533,7 @@
     "number": "17",
     "subject": "EARTH AND SPACE",
     "question": "Conceptually, solar sail propulsion is based upon the transmission of the momentum of photons as they bounce off mirror-like aluminized Mylar sails. By number, identify all of the following four options that are advantages of solar sailing as compared to a conventional rocket: 1) no need to carry fuel, 2) quicker acceleration, 3) constant acceleration, 4) constant velocity.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "5",
@@ -29629,7 +29629,7 @@
     "number": "23",
     "subject": "EARTH AND SPACE",
     "question": "By number, identify all of the following four statements that represent a significance of an unconformity in the rock record: 1) it represents missing time; 2) it represents extra time; 3) it represents periods of erosion and/or non-deposition of sediment; 4) it represents periods of faster or increased deposition of marine sediment.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "5",
@@ -34189,7 +34189,7 @@
     "number": "14",
     "subject": "MATH",
     "question": "What are the solutions to x x ? 2",
-    "answer": "2 AND 3 \u2013 5 + 6 = 0"
+    "answer": "2, 3 \u2013 5 + 6 = 0"
   },
   {
     "set": "6",
@@ -34629,7 +34629,7 @@
     "number": "17",
     "subject": "CHEMISTRY",
     "question": "Identify all of the following four compounds that are ionic: 1) sodium sulfate, 2) methane, 3) ammonium chloride, 4) beryllium iodide.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "6",
@@ -39437,7 +39437,7 @@
     "number": "4",
     "subject": "ENERGY",
     "question": "The electrical resistance of a semiconducting wire is least likely to be reduced by a decrease in which two of the following four wire characteristics? (1) melting point, (2) radius, (3) length, (4) temperature",
-    "answer": "1 and 2"
+    "answer": "1, 2"
   },
   {
     "set": "7",
@@ -44069,7 +44069,7 @@
     "number": "1",
     "subject": "BIOLOGY",
     "question": "Identify all of the following four cranial nerves that have a purely somatic motor function: 1) Trigeminal [try-JEM-uh-nl], 2) Trochlear [TROK-lee-er], 3) Hypoglossal, 4) Glossopharyngeal [glos-oh-fuh-RIN-jee-uhl].",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "7",
@@ -45445,7 +45445,7 @@
     "number": "18",
     "subject": "PHYSICS",
     "question": "Indicate, by number, all of the following three optical properties that are involved in the production of rainbows: 1) dispersion; 2) absorption; 3) total internal reflection.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "8",
@@ -45717,7 +45717,7 @@
     "number": "12",
     "subject": "CHEMISTRY",
     "question": "Identify all of the following three chemical species that likely have a negative enthalpy of formation: 1) carbon monoxide; 2) nitrogen monoxide; 3) sodium bromide.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "8",
@@ -45813,7 +45813,7 @@
     "number": "18",
     "subject": "PHYSICS",
     "question": "Indicate, by number, all of the following quantities that would change if the radius of the Earth decreases but the mass remains the same: 1) length of day; 2) kinetic energy of rotation; 3) length of year.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "8",
@@ -45957,7 +45957,7 @@
     "number": "5",
     "subject": "PHYSICS",
     "question": "Indicate, by number, all of the following three quantities that would change for a wave of light entering water from the air: 1) frequency; 2) wavelength; 3) velocity.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "8",
@@ -46285,7 +46285,7 @@
     "number": "3",
     "subject": "PHYSICS",
     "question": "Identify all of the following three phenomena that could be observed in a radio wave: 1. diffraction, 2. interference, 3. deflection in an electric field.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "8",
@@ -47261,7 +47261,7 @@
     "number": "22",
     "subject": "PHYSICS",
     "question": "Identify all of the following three statements that are true of the cosmic microwave background radiation: 1) The temperature of the radiation can be approximated by a black body; 2) The thermal black body spectrum is at a temperature of approximately 6 Kelvin; 3) The radiation is strongest in the radio and microwave regions of the electromagnetic spectrum.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "8",
@@ -47389,7 +47389,7 @@
     "number": "8",
     "subject": "CHEMISTRY",
     "question": "Identify all of the following three thermodynamic state functions that would increase as a result of water boiling at 100 degrees Celsius at atmospheric pressure: 1) Gibbs free energy; 2) enthalpy; 3) entropy.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "8",
@@ -47725,7 +47725,7 @@
     "number": "6",
     "subject": "CHEMISTRY",
     "question": "Identify all of the following four compounds that would function as soluble electrolytes when added to water: 1) sodium chloride; 2) decane; 3) acetic acid; 4) barium sulfate.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "8",
@@ -47837,7 +47837,7 @@
     "number": "13",
     "subject": "MATH",
     "question": "Provide all of the following three points that lie on the graph of the (cid:3051) function (cid:1877) (cid:3404) 2sin [y equals 2 sine of the quantity x divided by two]: point 1 is (0, 2), (cid:2870) point 2 is (\u03c0, 2), point 3 is (2\u03c0, 0)",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "8",
@@ -48020,7 +48020,7 @@
     "round": "10",
     "number": "2",
     "subject": "MATH",
-    "question": "What is the absolute value of the difference between the arithmetic mean and the positive geometric mean of the numbers 1 and 25?",
+    "question": "What is the absolute value of the difference between the arithmetic mean and the positive geometric mean of the numbers 1, 25?",
     "answer": "8"
   },
   {
@@ -48741,7 +48741,7 @@
     "number": "3",
     "subject": "ENERGY",
     "question": "Indicate, by number, all of the following statements that must be true for an object to be in static equilibrium [ee-kwuh-LIB-ree-uhm]: 1) All forces are balanced; 2) All torques are balanced; 3) Their pressures are the same.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "8",
@@ -49557,7 +49557,7 @@
     "number": "8",
     "subject": "ENERGY",
     "question": "Indicate all of the following three statements that are true of biodiesel: 1) Biodiesel has better lubricating properties and much higher cetane [SEE-tayn] ratings than today's lower sulfur diesel fuels; 2) Animal fats, algae, and soybean oil are all used to produce biofuels; 3) A biodiesel blend with 80% petroleum diesel is labeled B80.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "8",
@@ -49605,7 +49605,7 @@
     "number": "11",
     "subject": "BIOLOGY",
     "question": "Identify all of the following four hormones that are released by the pituitary gland: 1) growth hormone; 2) prolactin; 3) cortisol; 4) epinephrine [e-puh-NE-frin].",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "8",
@@ -49701,7 +49701,7 @@
     "number": "17",
     "subject": "BIOLOGY",
     "question": "Identify all of the following four molecules that are known to act as second messengers: 1) cyclic AMP; 2) diacylglycerol [dy-as-il-GLY-se-rohl]; 3) glycine [GLY- seen]; 4) serotonin.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "8",
@@ -50189,7 +50189,7 @@
     "number": "2",
     "subject": "CHEMISTRY",
     "question": "Identify all of the following three instruments or techniques that could be used to determine the concentration of an unknown solution of acetic acid: 1) titration, 2) potentiostat, 3) ion-exchange column.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "8",
@@ -50477,7 +50477,7 @@
     "number": "20",
     "subject": "PHYSICS",
     "question": "Identify all of the following three elements that could be used as dopants in germanium to make an n-type semiconductor: 1) phosphorous; 2) boron; 3) antimony.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "8",
@@ -52333,7 +52333,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements concerning second order reactions that are true: 1) The reaction half-life is independent of time; 2) The rate constant can be given in units of liters per mole-seconds; 3) Graphing the reciprocal of reactant concentration versus time shows a positive sloping line.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "9",
@@ -52581,7 +52581,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three organic functional groups that, when substituted for a hydrogen on a benzene ring, would further activate that ring towards electrophilic substitution: 1) Amine; 2) Methyl; 3) Nitro.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "9",
@@ -52909,7 +52909,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three quantities that are considered state functions: 1) Enthalpy; 2) Heat; 3) Volume.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -53093,7 +53093,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements concerning beryllium that are true: 1) Beryllium has a higher melting point than both magnesium and calcium; 2) Beryllium chloride has a higher ionic character than magnesium chloride; 3) Beryllium has a filled 2s subshell.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -53205,7 +53205,7 @@
     "number": "",
     "subject": "Energy",
     "question": "Identify all of the following four processes that result in a decrease in entropy: 1) freezing of water; 2) vaporization of water; 3) extraction of magnesium and pure water from sea water; 4) sublimation of dry ice.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -54061,7 +54061,7 @@
     "number": "1",
     "subject": "Biology",
     "question": "Identify all of the following three compounds that one would find in an animal cell: 1) D-glucose; 2) L-alanine; 3) L-trehalose.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "9",
@@ -54357,7 +54357,7 @@
     "number": "",
     "subject": "Earth and Space",
     "question": "Identify all of the following three geological features that are formed by the wind: 1) Yardangs; 2) Roche moutonnee [moot-an-ay]; 3) Blowouts.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -54557,7 +54557,7 @@
     "number": "2",
     "subject": "Biology",
     "question": "Identify all of the following three choices that represent correct reasons why the eradication of polio is possible: 1) Humans are the only reservoir of polio; 2) Transmission of the polio virus is very difficult; 3) Vaccination generates herd immunity.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -54869,7 +54869,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "Identify all of the following three statements that are true regarding charged coupled devices: 1) Charged coupled devices can often be found in cameras; 2) Charged coupled devices operate via the photoelectric effect; 3) Pixels in charged coupled devices are made of metal conductors.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "9",
@@ -55237,7 +55237,7 @@
     "number": "1",
     "subject": "Biology",
     "question": "Identify all of the following three choices that are pieces of evidence that lend credence to the endosymbiotic theory: 1) Chloroplasts contain their own genomes; 2) Mitochondria contain bacteria-like ribosomes; 3) All mitochondrial proteins are synthesized in the nucleus.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "9",
@@ -55317,7 +55317,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements concerning electrochemistry that are true: 1) A Faraday is the number of coulombs of charge generated by 1 mole of electrons; 2) The oxidation of copper into copper(II) ions can spontaneously drive the reduction of protons into hydrogen gas at standard state; 3) The oxidation of zinc into zinc(II) ions can spontaneously drive the reduction of protons into hydrogen gas at standard state.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -55453,7 +55453,7 @@
     "number": "",
     "subject": "Chemistry",
     "question": "Identify all of the following three compounds that have more ionic character than lithium chloride: 1) Lithium fluoride; 2) Rubidium fluoride; 3) Lithium bromide.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "9",
@@ -55653,7 +55653,7 @@
     "number": "2",
     "subject": "Physics",
     "question": "Identify all of the following 3 statements that are true of polarization: 1) The transmitted intensity of the electromagnetic wave is inversely proportional to the square of the electric field; 2) The Brewster angle is the angle of incidence at which the reflected ray is 100% polarized along a plane parallel to the reflecting surface; 3) If a substance can rotate the plane of polarization, it is said to be optically active.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "9",
@@ -55829,7 +55829,7 @@
     "number": "",
     "subject": "Biology",
     "question": "Identify all of the following three statements that are true regarding fats: 1) Fats are a more efficient form of energy storage than proteins; 2) Fats play a role in cell structure; 3) Fats are a less efficient form of energy storage than carbohydrates.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "9",
@@ -55837,7 +55837,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "Identify all of the following three statements that are true regarding electromagnetism: 1) Dipoles experience a net force in a uniform electric field; 2) At a distance infinity, dipoles are equivalent to a neutral particle; 3) Dipoles experience a net force in a nonuniform electric field.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "9",
@@ -55965,7 +55965,7 @@
     "number": "1",
     "subject": "Energy",
     "question": "Identify all of the following three statements that are true regarding the use of cellulosic ethanol as fuel: 1) Cellulosic ethanol has a more abundant stock of raw materials compared to corn ethanol; 2) Cellulosic ethanol has higher greenhouse emissions than corn ethanol; 3) Cellulosic ethanol can be produced via cellulolysis or gasification.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -56021,7 +56021,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three species that would be able to oxidize copper from the +1 to +2 oxidation state: 1) Potassium dichromate; 2) Sodium borohydride; 3) Silver nitrate.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -56773,7 +56773,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three organic functional groups that contain carbon atoms in an sp2 hybridization state: 1) Alkynes; 2) Esters; 3) Carboxylic acids.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "9",
@@ -56869,7 +56869,7 @@
     "number": "",
     "subject": "Biology",
     "question": "Identify all of the following three bile components that are secreted by hepatocytes: 1) Bile salts; 2) Bilirubin; 3) Bicarbonate.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "9",
@@ -56997,7 +56997,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "Identify all of the following 4 heat engine cycles which use internal combustion: 1) Diesel; 2) Carnot; 3) Otto; 4) Rankine.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -57077,7 +57077,7 @@
     "number": "1",
     "subject": "Biology",
     "question": "Identify all of the following three choices that are properties of exoskeletons: 1) Better protection to internal organs; 2) Unlimited growth potential; 3) High resistance to bending.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -57117,7 +57117,7 @@
     "number": "2",
     "subject": "Biology",
     "question": "Identify all of the following three statements that are true regarding nutrition: 1) Leptin suppresses appetite; 2) Ghrelin [greh-lihn] suppresses appetite; 3) A rise in blood sugar stimulates the beta cells of the pancreas.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -57125,7 +57125,7 @@
     "number": "2",
     "subject": "Biology",
     "question": "Identify all of the following three choices that are true of fairy rings: 1) The oldest portion of the fungus is at the center of the fairy ring; 2) The center of the fairy ring is absorbing the most nutrients per unit time relative to the rest of the ring; 3) The outer edge of the fairy ring is where one could find basidiocarps.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "9",
@@ -57253,7 +57253,7 @@
     "number": "",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true of seismic waves: 1) P waves are compressional; 2) S waves travel through fluids; 3) P waves travel faster than S waves.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -57533,7 +57533,7 @@
     "number": "",
     "subject": "Energy",
     "question": "Identify all the following three categories of fuel cells that can be considered types of proton exchange membrane fuel cells? 1) Direct-methanol, 2) Molten carbonate, 3) Phosphoric acid.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -57701,7 +57701,7 @@
     "number": "1",
     "subject": "Earth and Space",
     "question": "Identify all of the following three characteristics that can be used to distinguish the mineral calcite from the mineral quartz: 1) Color; 2) Hardness; 3) Birefringence [bye-ree-FRIN-jents].",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "10",
@@ -57861,7 +57861,7 @@
     "number": "2",
     "subject": "Biology",
     "question": "Identify all of the following three statements that are true regarding lysosomes: 1) Lysosomal enzymes are active at acidic pH; 2) Lysosomes are implicated in inclusion-cell disease; 3) Lysosomes are formed from late endosomes.",
-    "answer": "1, 2 AND 3"
+    "answer": "1, 2, 3"
   },
   {
     "set": "10",
@@ -58205,7 +58205,7 @@
     "number": "2",
     "subject": "Math",
     "question": "Identify all of the following three integer operations that are commutative: 1) Addition; 2) Subtraction; 3) Multiplication.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -58877,7 +58877,7 @@
     "number": "1",
     "subject": "Earth and Space",
     "question": "Identify all of the following three constellations and asterisms that would be visible in the December night sky over the North Pole: 1) Cassiopeia; 2) Crux; 3) The Big Dipper.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -59005,7 +59005,7 @@
     "number": "",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true of wooly mammoths: 1) They once lived in North America; 2) They had ivory tusks; 3) They evolved in the Devonian Period.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "10",
@@ -59349,7 +59349,7 @@
     "number": "2",
     "subject": "Math",
     "question": "The complex number \u20134 lies on the boundary between what two quadrants in the complex plane?",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "10",
@@ -60109,7 +60109,7 @@
     "number": "",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true of the contrails produced by air traffic: 1) They are mostly composed of water ice; 2) They have a high albedo relative to oceans and forests; 3) They form in unstable, convecting layers of the atmosphere.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "10",
@@ -60413,7 +60413,7 @@
     "number": "2",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true regarding the differences between S waves and P waves: 1) P waves are longitudinal waves, while S waves are transverse waves; 2) P waves tend to have much larger amplitudes than S waves; 3) P waves travel faster than S waves.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -60445,7 +60445,7 @@
     "number": "2",
     "subject": "Physics",
     "question": "Identify all of the following four particles that obey Bose-Einstein statistics: 1) Super-cooled helium atoms; 2) Beta particles; 3) Gamma rays; 4) Neutrons.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -60613,7 +60613,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three metals that have soluble chlorides: 1) Silver; 2) Iron; 3) Zinc.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "10",
@@ -60701,7 +60701,7 @@
     "number": "1",
     "subject": "Earth and Space",
     "question": "Identify all of the following statements that are true about zodiacal light: 1) It is produced when sunlight is scattered by cosmic dust; 2) It appears as a faint white glow near the horizon; 3) It is best viewed at midnight.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "10",
@@ -61061,7 +61061,7 @@
     "number": "1",
     "subject": "Math",
     "question": "Identify all of the four quadrants in which cosecant is positive.",
-    "answer": "1 and 2"
+    "answer": "1, 2"
   },
   {
     "set": "10",
@@ -61533,7 +61533,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three quantities that increase when the electron in a hydrogen atom transitions from 1s to 2s: 1) Energy of the electron; 2) Value of azimuthal quantum number; 3) Value of principal quantum number.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -61589,7 +61589,7 @@
     "number": "",
     "subject": "Energy",
     "question": "Identify all of the following three statements that illustrate disadvantages of hydroelectricity plants: 1) Water used to run the plant may be reliant on precipitation; 2) The plants can produce a lot of pollution; 3) Aquatic habitats near the plants may be destroyed.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -61677,7 +61677,7 @@
     "number": "",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements that are true regarding carbon and graphite: 1) Carbon atoms in diamond are sp3 hybridized; 2) Graphite is a better conductor of electricity than diamond; 3) Graphite carbon is tetrahedral.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "10",
@@ -61693,7 +61693,7 @@
     "number": "",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are TRUE regarding calderas: 1) Calderas can form atop shield volcanoes; 2) Basalt-filled calderas tend to result from explosive eruptions; 3) Calderas can be found on Venus and Io.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -61757,7 +61757,7 @@
     "number": "1",
     "subject": "Biology",
     "question": "Identify all of the following three pathways during which oxidative phosphorylation [faws-four-il-AY-shun] occurs: 1) Photosynthesis; 2) Krebs cycle; 3) Electron transport chain.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -61781,7 +61781,7 @@
     "number": "1",
     "subject": "Biology",
     "question": "In the presence of high amounts of citrate, the reaction catalyzed by the glycolytic enzyme phosphofructokinase [faws-fo-frook-tow-KYE-nase] slows down. Identify all of the following three types of enzyme inhibition that occur in this example: 1) Competitive; 2) Allosteric; 3) Feedback.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "10",
@@ -61917,7 +61917,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three organic reactions in which carbon atoms are reduced: 1) Transformation of alkanes into alcohols; 2) Transformation of ketones into secondary alcohols; 3) Transformation of carboxylic acids into aldehydes.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "10",
@@ -62365,7 +62365,7 @@
     "number": "",
     "subject": "Biology",
     "question": "Identify all of the following three statements that are TRUE regarding E. coli: 1) Gram negative; 2) Forms spores; 3) Rod-shaped.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "10",
@@ -62477,7 +62477,7 @@
     "number": "1",
     "subject": "Earth and Space",
     "question": "NASA's Aqua MODIS [MOH-diss] satellite instrument senses the color of Earth's surface oceans. Identify all of the following three statements relevant to Aqua MODIS data that are true: 1) The greenest seawater is found at the centers of ocean gyres; 2) A bloom of coccolithophores [caw-koh-LITH-oh-foorz] increases seawater albedo; 3) A bloom of cyanobacteria absorbs light in the 430-450 nanometer band.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "10",
@@ -62957,7 +62957,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three reactions that can be considered metathesis reactions: 1) The reaction of acetic acid with sodium bicarbonate; 2) The reaction of hydrochloric acid with sodium hydroxide; 3) The reaction of solid copper with silver nitrate.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "10",
@@ -63117,7 +63117,7 @@
     "number": "",
     "subject": "Chemistry",
     "question": "Identify all of the following three organic acids that would be more acidic in water than in acetic acid: 1) Chloroacetic acid; 2) Formic acid; 3) Propanoic acid.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "10",
@@ -63757,7 +63757,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements that are true of benzene: 1) It is nonpolar; 2) It is aromatic; 3) It is miscible [MIH-sih-bul] with water.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "11",
@@ -64125,7 +64125,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements that are characteristic of an SN2 reaction: 1) The reaction occurs with inversion; 2) The reaction does not occur with tertiary [TUR-shee-ary] alkyl [AL-kil] halides [HAY-lides]; 3) The reaction is faster with alkyl fluorides than with alkyl iodides.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "11",
@@ -64309,7 +64309,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three types of chemical bonds that can be formed by two atomic p-orbitals: 1) Sigma bond; 2) Pi [pie] bond; 3) Delta bond.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "11",
@@ -64733,7 +64733,7 @@
     "number": "1",
     "subject": "Energy",
     "question": "Identify all of the following three statements that are true regarding ethanol fuel: 1) E15 is a renewable fuel; 2) Ethanol blender pumps are most commonly found in the Midwest; 3) E15 produces less carbon monoxide emissions than pure gasoline.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "11",
@@ -64877,7 +64877,7 @@
     "number": "2",
     "subject": "Biology",
     "question": "Identify all of the following three cell types that are leukocytes [LOO-koh-sites]: 1) Eosinophil [ee-oh-SIN-oh-fil]; 2) Basophil [BAY-zoh-fil]; 3) Erythrocyte [eh-RITH-roh-site].",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "11",
@@ -65109,7 +65109,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "Identify all of the following three statements that are true of semiconductors: 1) Silicon dioxide is a semiconductor; 2) Silicon is commonly used as a semiconductor; 3) LEDs can be made of semiconductors.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "11",
@@ -65165,7 +65165,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "A hydraulic press has two ends that are level but have different areas. Identify all of the following 4 quantities that may have differing magnitudes at the two ends: 1) Force; 2) Work; 3) Displacement; 4) Pressure.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -65173,7 +65173,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "Identify all of the following 3 classes of levers that are capable of producing a mechanical advantage greater than unity: 1) Class 1; 2) Class 2; 3) Class 3.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "11",
@@ -65197,7 +65197,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three solutions that would be acidic: 1) A solution of iron(III) atoms hexacoordinated by water molecules; 2) A solution of ammonium sulfate; 3) A solution of sodium cyanide.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "11",
@@ -65533,7 +65533,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three compounds that can crystallize as network solids: 1) Carbon dioxide; 2) Silicon dioxide; 3) Silicon carbide.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "11",
@@ -65685,7 +65685,7 @@
     "number": "",
     "subject": "Earth and Space",
     "question": "Identify all of the following three locations where continental ice sheets can be currently found: 1) Greenland; 2) North America; 3) Antarctica.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -65749,7 +65749,7 @@
     "number": "",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true regarding the waves produced by earthquakes: 1) S waves are transverse waves; 2) S waves only travel through solids; 3) S waves travel faster than P waves.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "11",
@@ -66117,7 +66117,7 @@
     "number": "",
     "subject": "Biology",
     "question": "Identify all of the following three processes that are considered active transport: 1) Uptake of glucose via channels; 2) Sodium-calcium exchange; 3) Mucus secretion.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "11",
@@ -66181,7 +66181,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "Identify all of the following three particles that are leptons: 1) Neutrino; 2) Gluon; 3) Positron.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -66245,7 +66245,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li ; 2) Be ; 3) B . 2 2 2",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -66277,7 +66277,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three techniques that could separate enantiomers [en-AN- tee-oh-mirz] in a racemic [ray-SEEM-ik] mixture of a chiral amine [KYE-ruhl ah-MEEN]: 1) Chiral chromatography [crow-mah-TAW-grah-fee]; 2) Crystallization with acetic acid; 3) Crystallization with plus tartaric acid.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -66661,7 +66661,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three analytical techniques that could be used to detect the difference between two diastereomers [dye-ah-STARE-ee-oh-murz]: 1) X-ray crystallography [crystal-AW-graphy]; 2) NMR spectroscopy [spek-TRAW-scuh-pee]; 3) Mass spectrometry [spek-TRAW-metry].",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "11",
@@ -66861,7 +66861,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "Identify all of the following three statements that could be true of a particle undergoing constant acceleration: 1) Zero instantaneous velocity; 2) Quadratic increase in velocity; 3) Quadratic increase in position.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -67317,7 +67317,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements that are TRUE of the permanganate [pur-MAYNG-en-ate] ion: 1) It is reduced to Mn2+ in neutral solution; 2) It contains manganese [MAYN-gan-eez]in the +7 oxidation state; 3) It can be used as an indicator and titrant [TIE-trant] in a potentiometric [poh-ten-shee-oh-MEH-tric] titration [tie-TRAY-shun].",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "11",
@@ -67413,7 +67413,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three compounds that are most likely to undergo electrophilic [ee-lektroh-FILL-ik] aromatic substitution at the meta position: 1) Nitrobenzene; 2) Toluene [TAWL-you-een]; 3) Ethyl benzoate [BEN-zoh-ate].",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -67429,7 +67429,7 @@
     "number": "2",
     "subject": "Biology",
     "question": "Identify all of the following three responses that are actions of the sympathetic nervous system: 1) Pupil constriction; 2) Increased heart rate; 3) Vasodilation [vay-zoh-dye-LAY-shun] in muscles.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "11",
@@ -67581,7 +67581,7 @@
     "number": "",
     "subject": "Energy",
     "question": "Identify all of the following three options that would increase the resistance of a wire: 1) Increasing the temperature; 2) Increasing the radius; 3) Increasing the length.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -67861,7 +67861,7 @@
     "number": "",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements concerning crystal structures that are true: 1) The FCC lattice fills volume more efficiently than the BCC lattice; 2) The number of atoms in a BCC unit cell is 4; 3) The coordination number of an FCC lattice is 12.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -68117,7 +68117,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three compounds that have a higher lattice energy than sodium fluoride: 1) Sodium chloride; 2) Aluminum fluoride; 3) Sodium oxide.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "11",
@@ -68893,7 +68893,7 @@
     "number": "2",
     "subject": "Physics",
     "question": "Identify all of the following three particles that, according to the standard model, can be affected by gravity: 1) Electron; 2) Pion; 3) Gluon.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "11",
@@ -68917,7 +68917,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three functional groups that commonly participate in addition reactions: 1) Aldehyde [AL-deh-hide]; 2) Alkene ; 3) Alkyl [AL-kil] halide [HAY-lide].",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "11",
@@ -69021,7 +69021,7 @@
     "number": "",
     "subject": "Biology",
     "question": "Identify all of the following three statements that are true regarding tendrils in plants: 1) They can only be found in dicot vines; 2) They can be modified stems, leaves, or flower stalks; 3) They are primarily used for climbing.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "11",
@@ -69141,7 +69141,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three species that are Lewis acids: 1) Zn2+; 2) Cl- ; 3) BH . 3",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -69261,7 +69261,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements that are true regarding atomic nuclei: 1) The maximum number of protons in a stable nucleus is 92; 2) Nuclei with excess neutrons become more stable through beta emission; 3) Nuclei with excess protons can become more stable through electron capture.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "11",
@@ -69389,7 +69389,7 @@
     "number": "",
     "subject": "Biology",
     "question": "Identify all of the following three disorders that are usually inherited dominantly: 1) Huntington\u2019s disease; 2) Albinism [AL-beh-nih-zim]; 3) Polydactyly [polly-DAK-til-ee].",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "11",
@@ -69525,7 +69525,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following four compounds that are polar: 1) XeF ; 2) SF ; 3) BrF ; 4) PF . 4 4 5 5",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "11",
@@ -69645,7 +69645,7 @@
     "number": "2",
     "subject": "Biology",
     "question": "Identify all of the following three statements that are true regarding plant hormones: 1) Auxin plays an important role in gravitropism; 2) Abscisic [ab-SIH-zik] acid inhibits primary and secondary growth; 3) Cytokinin [sigh-toh-KYE-nin] increases rate of leaf senescence [sen-EH-sense].",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -69677,7 +69677,7 @@
     "number": "",
     "subject": "Biology",
     "question": "A commonly-used method of classifying animals is to find a shared ancestral characteristic and use it to group organisms as either within the group or outside the group. Identify all of the following three animals that are inside the group for the hinged jaw characteristic: 1) Lamprey; 2) Turtle; 3) Bass.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -69693,7 +69693,7 @@
     "number": "",
     "subject": "Math",
     "question": "Identify all of the following four expressions that are odd functions: 1) Cube root of x; 2) Cosine of x; 3) Tangent of x; 4) e to the x power.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -69821,7 +69821,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements that are true of concentration cells: 1) They have standard cell potentials equal to zero; 2) The spontaneous reaction is always from the less-concentrated solution to the more-concentrated solution; 3) Concentration cells can always proceed spontaneously.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -69901,7 +69901,7 @@
     "number": "1",
     "subject": "Biology",
     "question": "Identify all of the following three organisms that are deuterostomes [DOO-tur-ah-stomes]: 1) Jellyfish; 2) Humans; 3) Sea cucumbers.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -70381,7 +70381,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three properties of a liquid that decrease with increasing temperature: 1) Vapor pressure; 2) Viscosity; 3) Surface tension.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -70573,7 +70573,7 @@
     "number": "1",
     "subject": "Energy",
     "question": "Identify all of the following three types of waves that can be modeled and predicted using the current iteration of the Community Atmosphere Model, currently being used by Lawrence Berkeley National Lab researchers: 1) Tsunamis [su-NAH-mees]; 2) Tidal bores; 3) Wind wave.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -70661,7 +70661,7 @@
     "number": "1",
     "subject": "Biology",
     "question": "Identify all of the following three Linnaean [lin-AY-in] classifications that apply to the leopard: 1) Carnivora [car-NIV-or-ah]; 2) Chordata [kor-DAH-tah]; 3) Canidae [KAN-ih- dee].",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -70669,7 +70669,7 @@
     "number": "1",
     "subject": "Biology",
     "question": "Identify all of the following three organisms that are part of the phylum [FYE-lum] Coniferophyta [kaw-nif-er-AW-fih-tah]: 1) Sequoia; 2) Orchid; 3) Douglas fir.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -70733,7 +70733,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three reactions that would favor reactants over products: 1) A reaction with K of 3; 2) A reaction with positive delta G; 3) An endothermic reaction eq with negative delta S.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -71165,7 +71165,7 @@
     "number": "",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true about the positions of American cities relative to tectonic [tek-TAWN-ik] plates: 1) San Francisco is located on the North American Plate; 2) Los Angeles is located on the Pacific Plate; 3) Seattle is located on the Pacific Plate.",
-    "answer": "1 AND 2 ONLY"
+    "answer": "1, 2 ONLY"
   },
   {
     "set": "12",
@@ -71277,7 +71277,7 @@
     "number": "1",
     "subject": "Energy",
     "question": "The Dark Energy Camera was built at Fermilab to image the universe from an observatory in Chile. Identify all of the following three statements that are true of the Dark Energy Camera: 1) It uses charge-coupled devices to detect light; 2) It is better at detecting red and near-infrared light than violet and ultraviolet light; 3) It is part of an interferometer.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -71285,7 +71285,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three acids that are polyprotic [polly-PRO- tic]: 1) Phosphorous acid; 2) Hydroiodic [HIGH-droh-eye-AW-dik] acid; 3) Selenic acid.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -71437,7 +71437,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements that are true about intermolecular [inter-moh-LEK-yoo-lur] forces and phase diagrams: 1) Dinitrogen has a high critical temperature relative to water; 2) Substances with higher vapor pressures have lower boiling points; 3) Substances with stronger intermolecular forces have lower vapor pressures.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -71549,7 +71549,7 @@
     "number": "",
     "subject": "Biology",
     "question": "Identify all of the following three statements that are true of eukaryotic [YOU-care-ee-AW-tic] cell structures: 1) The cilia [SILL-ee-ah] has a characteristic 9 plus 2 arrangement of microtubules [micro-TUBE-yules]; 2) Lysosomes [LYE-soh-sohms]are responsible for assembling ribosomes; 3) The endoplasmic reticulum [reh-TIK-yoo-lum] plays a role in synthesizing lipids.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -71725,7 +71725,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "Identify all of the following three features that were in Bohr's model of the atom: 1) Energy levels; 2) Orbitals; 3) Electrons.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -72029,7 +72029,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three atoms that have a higher first ionization [eye-on-ih-ZAY-shun] energy than lithium: 1) Sodium; 2) Beryllium [beh-RILL-ee-um]; 3) Magnesium.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -72077,7 +72077,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three compounds that have a hybridization [HIGH-brih-dye-ZAY-shun] scheme requiring d-orbitals in VSEPR theory: 1) Xenon [ZEE-non] tetrafluoride; 2) Xenon tetroxide [teh-TROX-ide]; 3) Xenon difluoride.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -72453,7 +72453,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "Identify all of the following three quantities that are vector quantities: 1) Impulse; 2) Momentum; 3) Energy.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -72749,7 +72749,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "A particle undergoing a constant acceleration starts at rest at position x equals zero. Identify all of the following three pairs of positions it could be at after one second and then after two seconds, respectively: 1) x equals zero, then x equals zero; 2) x equals three, then x equals twelve; 3) x equals two, then x equals sixteen.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -72797,7 +72797,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three molecules that have a net dipole [DYE- pole] moment: 1) Silicon tetrachloride; 2) Chloroform; 3) Hydrogen sulfide.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -72813,7 +72813,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "Two electrons are held close together and then released. Identify all of the following three statements that are true regarding this system: 1) Acceleration increases as time passes; 2) Velocity increases as time passes; 3) Force between the electrons decreases as time passes.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -72925,7 +72925,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "A student constructs a ball and stick model of a linear molecule. Identify all of the following statements that could be valid for this molecule: 1) The central atom has zero lone pairs; 2) The central atom has two lone pairs; 3) The central atom has three lone pairs.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -72949,7 +72949,7 @@
     "number": "2",
     "subject": "Math",
     "question": "The complex number 3i lies on the boundary between what two quadrants in the complex plane?",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -73133,7 +73133,7 @@
     "number": "1",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true of binary star systems: 1) It is impossible to tell if a given star is actually an astrometric binary; 2) For a visual binary, the masses of both stars can be determined; 3) For a spectroscopic [spek-troh-SCAW-pik] binary, the semimajor axis can be determined.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -73229,7 +73229,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three statements that are true regarding the kinetic molecular [moh-LEK-yoo-lur] theory of gases: 1) Particle volume is negligible compared to the volume occupied by the gas; 2) Gas particles interact only weakly; 3) Gas particles collide elastically.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -73309,7 +73309,7 @@
     "number": "2",
     "subject": "Biology",
     "question": "Identify all of the following three diseases that are genetically recessive: 1) Cystic fibrosis; 2) Huntington's chorea [kah-REE-ah]; 3) Albinism [AL-beh-nih-zim].",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -73325,7 +73325,7 @@
     "number": "2",
     "subject": "Physics",
     "question": "Identify all of the following three particles that are considered fermions [FUR-mee-awnz]: 1) Photon; 2) Electron; 3) Up quark.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -73453,7 +73453,7 @@
     "number": "",
     "subject": "Chemistry",
     "question": "Identify all of the following three orbitals that have two or more radial nodes: 1) 4d-xy; 2) 5p-x; 3) 3s.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -73757,7 +73757,7 @@
     "number": "",
     "subject": "Chemistry",
     "question": "Identify all of the following three hydrogen atoms that could be deprotonated [dee-PRO-tuh-nated] by sodium amide [AM-ide]: 1) Hydrogen on terminal alkyne; 2) Hydrogen alpha to ketone [KEE-tone]; 3) Hydrogen on tri-substituted alkene.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -73789,7 +73789,7 @@
     "number": "",
     "subject": "Biology",
     "question": "In the Meselson-Stahl [meh-sul-sun stahl] experiment, cells containing heavy DNA were replicated in a medium containing light DNA, leading to a generation with all intermediate-weight DNA. Identify all of the following weights of DNA that would be found in cells in the next generation: 1) Heavy; 2) Intermediate; 3) Light.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -73813,7 +73813,7 @@
     "number": "",
     "subject": "Energy",
     "question": "One of the goals of Fermilab scientists participating in the Dark Energy Survey is to use the data to find dwarf galaxies. Identify all of the following three statements that are true about these dwarf galaxies: 1) Several dwarf galaxies orbit the Milky Way; 2) Some dwarf galaxies contain 100 billion stars; 3) Dwarf galaxies can contain dark matter.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -73917,7 +73917,7 @@
     "number": "1",
     "subject": "Chemistry",
     "question": "Identify all of the following three functional groups that are present in nucleotides: 1) Ether; 2) Alcohol; 3) Thiol [THIGH-awl].",
-    "answer": "1 and 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -73965,7 +73965,7 @@
     "number": "1",
     "subject": "Earth and Space",
     "question": "Identify all of the following three oxide minerals in which all of the iron is in the three plus oxidation state: 1) Ferrihydrite [fair-ih-HIGH-drite]; 2) Magnetite; 3) Goethite [GUR-tite].",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -74077,7 +74077,7 @@
     "number": "",
     "subject": "Energy",
     "question": "SLAC [slack] scientists recently published a surprising study in which they discovered that applying small amounts of pressure to platinum or lithium cobalt oxide increased the material's catalytic efficiency. Identify all of the following three devices to which this discovery is relevant: 1) Fuel cells; 2) Batteries; 3) Capacitors.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -74301,7 +74301,7 @@
     "number": "1",
     "subject": "Earth and Space",
     "question": "Identify all of the following three geologic principles that are Steno\u2019s [STEH-nose] Laws: 1) Law of original horizontality[haw-rih-zon-TAL-ih-tee]; 2) Law of superposition; 3) Law of faunal succession.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -74397,7 +74397,7 @@
     "number": "2",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true regarding winds: 1) In general, winds at the equator flow west; 2) Air rising from the equator sinks around 5 degrees north and south latitudes; 3) At 30 degrees south latitude, the sinking air generally yields clear skies.",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -74605,7 +74605,7 @@
     "number": "1",
     "subject": "Energy",
     "question": "There is significant interest in thorium as a next-generation fuel for nuclear fission [FIH-zhun] reactors. Identify all of the following three statements that are true regarding thorium: 1) Thorium can be found in nature as one nonfissile isotope; 2) Thorium-232 can undergo neutron capture; 3) Thorium-232 is radioactive with a half-life of 21 minutes.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -74749,7 +74749,7 @@
     "number": "2",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true of cosmic molecular [moh-LEK-yoo-lur] clouds: 1) Hydrogen in molecular clouds is typically present as H ; 2) They 2 contain trace amounts of small organic compounds such as formaldehyde; 3) Constituents of molecular clouds are typically present as ions.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -74781,7 +74781,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three molecules that, according to molecular orbital theory, have non-zero bond orders: 1) H-two [H-2]; 2) He-two [H-E-2]; 3) He-two plus [H-E-2-plus].",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -75101,7 +75101,7 @@
     "number": "1",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true of earthquake waves: 1) A P-wave shadow zone exists because P waves cannot travel through the liquid outer core; 2) The P-wave shadow zone is smaller in area than the S-wave shadow zone; 3) An S-wave shadow zone exists because S waves cannot travel through the liquid outer core.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -75133,7 +75133,7 @@
     "number": "2",
     "subject": "Physics",
     "question": "Identify all of the following three statements that are true regarding gas thermodynamics: 1) The ideal gas constant is equal to the Boltzmann constant multiplied by Avogadro's number; 2) At the same temperature, the atoms in xenon [ZEE-non] will have a higher root-mean-square velocity than those of helium; 3) The Boltzmann constant can be expressed with the same units as entropy [EN-troh-pee].",
-    "answer": "1 AND 3"
+    "answer": "1, 3"
   },
   {
     "set": "12",
@@ -75309,7 +75309,7 @@
     "number": "",
     "subject": "Earth and Space",
     "question": "Identify all of the following three statements that are true of fossil fuels: 1) Good reservoir rocks have high permeability; 2) Good cap rocks have low permeability; 3) Natural gas tends to form at shallower depths than oil.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -75509,7 +75509,7 @@
     "number": "2",
     "subject": "Earth and Space",
     "question": "Identify all of the following three rocks that would be classified as aphanitic [AFF-in-it-ik]: 1) Andesite [ANN-deh-site]; 2) Basalt [bah-SALT]; 3) Diorite.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -75533,7 +75533,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three chemical moieties that are capable of having cis [sis] -trans isomerism [eye-SAW-mer-izm]: 1) Tetrahedral [tetrah-HEE-drul] complex; 2) Alkene; 3) Square planar [PLAY-nar] complex.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -75645,7 +75645,7 @@
     "number": "",
     "subject": "Earth and Space",
     "question": "Identify all of the following three latitudes that trade winds can be found in: 1) Between 60 and 30 degrees south; 2) Between 30 degrees south and the equator; 3) Between the equator and 30 degrees north.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -75709,7 +75709,7 @@
     "number": "1",
     "subject": "Physics",
     "question": "An excess charge is distributed over the surface of a solid metal sphere that has a radius of one meter. Identify all of the following three distances from the center of the sphere at which the electrical potential relative to infinity is maximized: 1) 50 centimeters; 2) 100 centimeters; 3) 150 centimeters.",
-    "answer": "1 AND 2"
+    "answer": "1, 2"
   },
   {
     "set": "12",
@@ -75885,7 +75885,7 @@
     "number": "2",
     "subject": "Chemistry",
     "question": "Identify all of the following three molecules that have the chemical formula C H O: 1) Acetone; 2) Butanone; 3) Butyraldehyde. 4 8",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "12",
@@ -88405,7 +88405,7 @@
     "number": "",
     "subject": "Energy",
     "question": "Researchers at Los Alamos National Lab are studying the effects of Super El Nino events in the past, including the one that occurred from 2015 to 2016. Identify all of the following three changes that are consequences of an El Nino event: 1) Increases in soil moisture in India; 2) High air pressure in the Western Pacific; 3) High sea surface temperatures off the coast of Peru.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "16",
@@ -90773,7 +90773,7 @@
     "number": "",
     "subject": "Energy",
     "question": "Researchers at Thomas Jefferson National Accelerator Facility use hadron calorimeters to detect particles created in their accelerator. Identify all of the following four particles that are hadrons: 1) Muon; 2) Kaon; 3) Proton; 4) Neutrino.",
-    "answer": "2 AND 3"
+    "answer": "2, 3"
   },
   {
     "set": "16",

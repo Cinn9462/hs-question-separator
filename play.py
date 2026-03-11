@@ -1,7 +1,8 @@
 # SESSIONS AUTOMATICALLY SAVE TO A JSON IN THE LOCAL DIRECTORY
+# OVERRIDE COMMANDS ARE 'ADD' 'SUB' 'NULL' 'STOP'
 # PARAMETERS FOR NEW GAME
 SUBJECT = '5' # 1-Math, 2-Physics, 3-Chemistry, 4-Biology, 5-Earth and space
-MIN_SET = 1 # 1 for no restrictions
+MIN_SET = 11 # 1 for no restrictions
 MAX_SET = 16 # 16 for no restrictions
 MIN_ROUND = 1 # 1 for no restrictions
 MAX_ROUND = 17 # 17 for no restrictions
